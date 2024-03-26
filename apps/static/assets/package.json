@@ -1,7 +1,7 @@
 {
-  "name": "soft-ui-dashboard",
-  "version": "1.0.6",
-  "description": "Freebie Dashboard for Bootstrap 5",
+  "name": "yieldforge-dashboard",
+  "version": "1.0",
+  "description": "Admin Dashboard for YieldForge Brain",
   "main": "pages/dashboard.html",
   "directories": {
     "example": "root"
@@ -13,29 +13,9 @@
     "watch": "gulp-watch"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/creativetimofficial/soft-ui-dashboard.git"
+    "type": "git"  
   },
-  "keywords": [
-    "soft ui dashboard",
-    "bootstrap 5",
-    "dashboard",
-    "creative tim",
-    "html dashboard",
-    "html css dashboard",
-    "web dashboard",
-    "freebie",
-    "free bootstrap dashboard",
-    "css3 dashboard",
-    "bootstrap dashboard",
-    "frontend",
-    "responsive bootstrap dashboard"
-  ],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/soft-ui-dashboard/issues"
-  },
+  "author": "Armand Morin",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
