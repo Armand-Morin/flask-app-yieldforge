@@ -1,0 +1,4802 @@
+[
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1139983.1 USDC",
+    "quote_balance_after": "500.00000 ETH",
+    "amount": "500.00000 USDC",
+    "price": "2281.1068 USDC/ETH",
+    "fee": "0.25 ETH",
+    "base_change": "1139983.1 USDC",
+    "quote_change": "499.75000 ETH",
+    "timestamp": "2024-01-01T00:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "161481.94 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1139983.1 USDC",
+    "quote_amount_max": "500.00000 ETH",
+    "lower_quote_price": "2208.5350 USDC/ETH",
+    "upper_quote_price": "2368.7396 USDC/ETH",
+    "base_amount_actual": "978501.17 USDC",
+    "quote_amount_actual": "500.00000 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "liquidity": 1278909348803276017,
+    "timestamp": "2024-01-01T00:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "161481.94 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "1165076.0 USDC",
+    "quote_amount": "418.45770 ETH",
+    "removed_liquidity": 1278909348803276017,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T01:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1326712.7 USDC",
+    "quote_balance_after": "418.48721 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "1165230.8 USDC",
+    "quote_amount": "418.48721 ETH",
+    "timestamp": "2024-01-01T01:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1143492.1 USDC",
+    "quote_balance_after": "498.27979 ETH",
+    "amount": "79.792585 ETH",
+    "price": "2295.0633 USDC/ETH",
+    "fee": "91.564519 USDC",
+    "base_change": "183129.04 USDC",
+    "quote_change": "79.792585 ETH",
+    "timestamp": "2024-01-01T01:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1145598.9 USDC",
+    "quote_balance_after": "497.36467 ETH",
+    "amount": "0.91512292 USDC",
+    "price": "2303.3401 USDC/ETH",
+    "fee": "0.00045756146 ETH",
+    "base_change": "2106.7853 USDC",
+    "quote_change": "0.91466536 ETH",
+    "timestamp": "2024-01-01T02:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "164.62943 ETH",
+    "base_amount_max": "1145598.9 USDC",
+    "quote_amount_max": "497.36467 ETH",
+    "lower_quote_price": "2208.5350 USDC/ETH",
+    "upper_quote_price": "2368.7396 USDC/ETH",
+    "base_amount_actual": "1145598.9 USDC",
+    "quote_amount_actual": "332.73524 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "liquidity": 1148703288715344575,
+    "timestamp": "2024-01-01T02:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "164.62943 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "1024452.6 USDC",
+    "quote_amount": "385.44700 ETH",
+    "removed_liquidity": 1148703288715344575,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T03:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1024480.6 USDC",
+    "quote_balance_after": "550.11505 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "1024480.6 USDC",
+    "quote_amount": "385.48562 ETH",
+    "timestamp": "2024-01-01T03:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1142950.7 USDC",
+    "quote_balance_after": "498.42837 ETH",
+    "amount": "51.686684 USDC",
+    "price": "2293.2281 USDC/ETH",
+    "fee": "0.025843342 ETH",
+    "base_change": "118470.09 USDC",
+    "quote_change": "51.660841 ETH",
+    "timestamp": "2024-01-01T03:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1138084.3 USDC",
+    "quote_balance_after": "500.56771 ETH",
+    "amount": "2.1393430 ETH",
+    "price": "2273.5919 USDC/ETH",
+    "fee": "2.4319965 USDC",
+    "base_change": "4863.9930 USDC",
+    "quote_change": "2.1393430 ETH",
+    "timestamp": "2024-01-01T04:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "330684.71 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1138084.3 USDC",
+    "quote_amount_max": "500.56771 ETH",
+    "lower_quote_price": "2208.5350 USDC/ETH",
+    "upper_quote_price": "2368.7396 USDC/ETH",
+    "base_amount_actual": "807399.55 USDC",
+    "quote_amount_actual": "500.56771 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "liquidity": 1176333951321654951,
+    "timestamp": "2024-01-01T04:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "330684.71 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "894402.40 USDC",
+    "quote_amount": "462.36028 ETH",
+    "removed_liquidity": 1176333951321654951,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T05:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1225206.2 USDC",
+    "quote_balance_after": "462.40400 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "894521.46 USDC",
+    "quote_amount": "462.40400 ETH",
+    "timestamp": "2024-01-01T05:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1139851.4 USDC",
+    "quote_balance_after": "499.81092 ETH",
+    "amount": "37.406912 ETH",
+    "price": "2280.6506 USDC/ETH",
+    "fee": "42.656049 USDC",
+    "base_change": "85312.097 USDC",
+    "quote_change": "37.406912 ETH",
+    "timestamp": "2024-01-01T05:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1138392.2 USDC",
+    "quote_balance_after": "500.45211 ETH",
+    "amount": "0.64119096 ETH",
+    "price": "2274.7289 USDC/ETH",
+    "fee": "0.72926781 USDC",
+    "base_change": "1458.5356 USDC",
+    "quote_change": "0.64119096 ETH",
+    "timestamp": "2024-01-01T06:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "306915.74 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1138392.2 USDC",
+    "quote_amount_max": "500.45211 ETH",
+    "lower_quote_price": "2208.5350 USDC/ETH",
+    "upper_quote_price": "2368.7396 USDC/ETH",
+    "base_amount_actual": "831476.41 USDC",
+    "quote_amount_actual": "500.45211 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "liquidity": 1190730902458087183,
+    "timestamp": "2024-01-01T06:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "306915.74 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "922409.97 USDC",
+    "quote_amount": "460.54046 ETH",
+    "removed_liquidity": 1190730902458087183,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T07:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1229396.1 USDC",
+    "quote_balance_after": "460.55698 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "922480.39 USDC",
+    "quote_amount": "460.55698 ETH",
+    "timestamp": "2024-01-01T07:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1140153.4 USDC",
+    "quote_balance_after": "499.64433 ETH",
+    "amount": "39.087353 ETH",
+    "price": "2282.0193 USDC/ETH",
+    "fee": "44.599048 USDC",
+    "base_change": "89198.095 USDC",
+    "quote_change": "39.087353 ETH",
+    "timestamp": "2024-01-01T07:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1140745.8 USDC",
+    "quote_balance_after": "499.38489 ETH",
+    "amount": "0.25944689 USDC",
+    "price": "2284.3024 USDC/ETH",
+    "fee": "0.00012972345 ETH",
+    "base_change": "592.35883 USDC",
+    "quote_change": "0.25931717 ETH",
+    "timestamp": "2024-01-01T08:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "81019.479 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1140745.8 USDC",
+    "quote_amount_max": "499.38489 ETH",
+    "lower_quote_price": "2208.5350 USDC/ETH",
+    "upper_quote_price": "2368.7396 USDC/ETH",
+    "base_amount_actual": "1059726.3 USDC",
+    "quote_amount_actual": "499.38489 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "liquidity": 1327065450179312273,
+    "timestamp": "2024-01-01T08:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "81019.479 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "1091445.8 USDC",
+    "quote_amount": "485.50598 ETH",
+    "removed_liquidity": 1327065450179312273,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T09:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1172526.6 USDC",
+    "quote_balance_after": "485.52594 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "1091507.1 USDC",
+    "quote_amount": "485.52594 ETH",
+    "timestamp": "2024-01-01T09:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1141346.6 USDC",
+    "quote_balance_after": "499.15519 ETH",
+    "amount": "13.629251 ETH",
+    "price": "2286.5877 USDC/ETH",
+    "fee": "15.582239 USDC",
+    "base_change": "31164.478 USDC",
+    "quote_change": "13.629251 ETH",
+    "timestamp": "2024-01-01T09:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1144385.3 USDC",
+    "quote_balance_after": "497.83261 ETH",
+    "amount": "1.3225856 USDC",
+    "price": "2298.7382 USDC/ETH",
+    "fee": "0.00066129282 ETH",
+    "base_change": "3038.7580 USDC",
+    "quote_change": "1.3219244 ETH",
+    "timestamp": "2024-01-01T10:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "123.52682 ETH",
+    "base_amount_max": "1144385.3 USDC",
+    "quote_amount_max": "497.83261 ETH",
+    "lower_quote_price": "2208.5350 USDC/ETH",
+    "upper_quote_price": "2368.7396 USDC/ETH",
+    "base_amount_actual": "1144385.3 USDC",
+    "quote_amount_actual": "374.30579 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "liquidity": 1205465334670571111,
+    "timestamp": "2024-01-01T10:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "123.52682 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "1173289.2 USDC",
+    "quote_amount": "361.73826 ETH",
+    "removed_liquidity": 1205465334670571111,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T11:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1173332.7 USDC",
+    "quote_balance_after": "485.27773 ETH",
+    "position": {
+      "lower_tick": 198619,
+      "upper_tick": 199319
+    },
+    "base_amount": "1173332.7 USDC",
+    "quote_amount": "361.75091 ETH",
+    "timestamp": "2024-01-01T11:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1144973.4 USDC",
+    "quote_balance_after": "497.59614 ETH",
+    "amount": "12.318403 ETH",
+    "price": "2301.0380 USDC/ETH",
+    "fee": "14.172557 USDC",
+    "base_change": "28345.114 USDC",
+    "quote_change": "12.318403 ETH",
+    "timestamp": "2024-01-01T11:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1145724.8 USDC",
+    "quote_balance_after": "497.26985 ETH",
+    "amount": "0.32628680 USDC",
+    "price": "2304.0311 USDC/ETH",
+    "fee": "0.00016314340 ETH",
+    "base_change": "751.39905 USDC",
+    "quote_change": "0.32612365 ETH",
+    "timestamp": "2024-01-01T12:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "169.27573 ETH",
+    "base_amount_max": "1145724.8 USDC",
+    "quote_amount_max": "497.26985 ETH",
+    "lower_quote_price": "2208.5762 USDC/ETH",
+    "upper_quote_price": "2368.7838 USDC/ETH",
+    "base_amount_actual": "1145724.8 USDC",
+    "quote_amount_actual": "327.99412 ETH",
+    "position": {
+      "lower_tick": 198618,
+      "upper_tick": 199319
+    },
+    "liquidity": 1140595987064567443,
+    "timestamp": "2024-01-01T12:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "169.27573 ETH",
+    "position": {
+      "lower_tick": 198618,
+      "upper_tick": 199319
+    },
+    "base_amount": "1096475.4 USDC",
+    "quote_amount": "349.38870 ETH",
+    "removed_liquidity": 1140595987064567443,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T13:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1096667.6 USDC",
+    "quote_balance_after": "518.75828 ETH",
+    "position": {
+      "lower_tick": 198618,
+      "upper_tick": 199319
+    },
+    "base_amount": "1096667.6 USDC",
+    "quote_amount": "349.48255 ETH",
+    "timestamp": "2024-01-01T13:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1144852.6 USDC",
+    "quote_balance_after": "497.79677 ETH",
+    "amount": "20.961512 USDC",
+    "price": "2299.8878 USDC/ETH",
+    "fee": "0.010480756 ETH",
+    "base_change": "48185.021 USDC",
+    "quote_change": "20.951031 ETH",
+    "timestamp": "2024-01-01T13:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1145608.9 USDC",
+    "quote_balance_after": "497.46819 ETH",
+    "amount": "0.32857509 USDC",
+    "price": "2302.8795 USDC/ETH",
+    "fee": "0.00016428754 ETH",
+    "base_change": "756.29048 USDC",
+    "quote_change": "0.32841080 ETH",
+    "timestamp": "2024-01-01T14:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "121.26746 ETH",
+    "base_amount_max": "1145608.9 USDC",
+    "quote_amount_max": "497.46819 ETH",
+    "lower_quote_price": "2212.6218 USDC/ETH",
+    "upper_quote_price": "2373.1229 USDC/ETH",
+    "base_amount_actual": "1145608.9 USDC",
+    "quote_amount_actual": "376.20074 ETH",
+    "position": {
+      "lower_tick": 198600,
+      "upper_tick": 199300
+    },
+    "liquidity": 1208660308212658738,
+    "timestamp": "2024-01-01T14:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "121.26746 ETH",
+    "position": {
+      "lower_tick": 198600,
+      "upper_tick": 199300
+    },
+    "base_amount": "1122414.1 USDC",
+    "quote_amount": "386.27687 ETH",
+    "removed_liquidity": 1208660308212658738,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T15:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1122486.3 USDC",
+    "quote_balance_after": "507.58793 ETH",
+    "position": {
+      "lower_tick": 198600,
+      "upper_tick": 199300
+    },
+    "base_amount": "1122486.3 USDC",
+    "quote_amount": "386.32047 ETH",
+    "timestamp": "2024-01-01T15:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1145221.3 USDC",
+    "quote_balance_after": "497.70264 ETH",
+    "amount": "9.8852884 USDC",
+    "price": "2301.0380 USDC/ETH",
+    "fee": "0.0049426442 ETH",
+    "base_change": "22735.051 USDC",
+    "quote_change": "9.8803458 ETH",
+    "timestamp": "2024-01-01T15:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1148556.0 USDC",
+    "quote_balance_after": "496.26110 ETH",
+    "amount": "1.4415454 USDC",
+    "price": "2314.4221 USDC/ETH",
+    "fee": "0.00072077268 ETH",
+    "base_change": "3334.6763 USDC",
+    "quote_change": "1.4408246 ETH",
+    "timestamp": "2024-01-01T16:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "192.65779 ETH",
+    "base_amount_max": "1148556.0 USDC",
+    "quote_amount_max": "496.26110 ETH",
+    "lower_quote_price": "2215.7777 USDC/ETH",
+    "upper_quote_price": "2376.5077 USDC/ETH",
+    "base_amount_actual": "1148556.0 USDC",
+    "quote_amount_actual": "303.60330 ETH",
+    "position": {
+      "lower_tick": 198586,
+      "upper_tick": 199286
+    },
+    "liquidity": 1109704878122460755,
+    "timestamp": "2024-01-01T16:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "192.65779 ETH",
+    "position": {
+      "lower_tick": 198586,
+      "upper_tick": 199286
+    },
+    "base_amount": "1105866.3 USDC",
+    "quote_amount": "322.06316 ETH",
+    "removed_liquidity": 1109704878122460755,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T17:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1105956.8 USDC",
+    "quote_balance_after": "514.76719 ETH",
+    "position": {
+      "lower_tick": 198586,
+      "upper_tick": 199286
+    },
+    "base_amount": "1105956.8 USDC",
+    "quote_amount": "322.10940 ETH",
+    "timestamp": "2024-01-01T17:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1147699.5 USDC",
+    "quote_balance_after": "496.69337 ETH",
+    "amount": "18.073819 USDC",
+    "price": "2310.7222 USDC/ETH",
+    "fee": "0.0090369097 ETH",
+    "base_change": "41742.693 USDC",
+    "quote_change": "18.064782 ETH",
+    "timestamp": "2024-01-01T17:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1148513.5 USDC",
+    "quote_balance_after": "496.34143 ETH",
+    "amount": "0.35193687 USDC",
+    "price": "2313.9593 USDC/ETH",
+    "fee": "0.00017596843 ETH",
+    "base_change": "813.96040 USDC",
+    "quote_change": "0.35176090 ETH",
+    "timestamp": "2024-01-01T18:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "149.14444 ETH",
+    "base_amount_max": "1148513.5 USDC",
+    "quote_amount_max": "496.34143 ETH",
+    "lower_quote_price": "2220.3280 USDC/ETH",
+    "upper_quote_price": "2381.3880 USDC/ETH",
+    "base_amount_actual": "1148513.5 USDC",
+    "quote_amount_actual": "347.19699 ETH",
+    "position": {
+      "lower_tick": 198565,
+      "upper_tick": 199266
+    },
+    "liquidity": 1168250679229235856,
+    "timestamp": "2024-01-01T18:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "149.14444 ETH",
+    "position": {
+      "lower_tick": 198565,
+      "upper_tick": 199266
+    },
+    "base_amount": "1328623.2 USDC",
+    "quote_amount": "269.60948 ETH",
+    "removed_liquidity": 1168250679229235856,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T19:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1328826.4 USDC",
+    "quote_balance_after": "418.80332 ETH",
+    "position": {
+      "lower_tick": 198565,
+      "upper_tick": 199266
+    },
+    "base_amount": "1328826.4 USDC",
+    "quote_amount": "269.65888 ETH",
+    "timestamp": "2024-01-01T19:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1151982.7 USDC",
+    "quote_balance_after": "494.70260 ETH",
+    "amount": "75.899282 ETH",
+    "price": "2328.8154 USDC/ETH",
+    "fee": "88.377708 USDC",
+    "base_change": "176755.42 USDC",
+    "quote_change": "75.899282 ETH",
+    "timestamp": "2024-01-01T19:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1154334.3 USDC",
+    "quote_balance_after": "493.69633 ETH",
+    "amount": "1.0062788 USDC",
+    "price": "2338.1488 USDC/ETH",
+    "fee": "0.00050313942 ETH",
+    "base_change": "2351.6533 USDC",
+    "quote_change": "1.0057757 ETH",
+    "timestamp": "2024-01-01T20:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "268.93233 ETH",
+    "base_amount_max": "1154334.3 USDC",
+    "quote_amount_max": "493.69633 ETH",
+    "lower_quote_price": "2227.9802 USDC/ETH",
+    "upper_quote_price": "2389.5953 USDC/ETH",
+    "base_amount_actual": "1154334.3 USDC",
+    "quote_amount_actual": "224.76400 ETH",
+    "position": {
+      "lower_tick": 198531,
+      "upper_tick": 199231
+    },
+    "liquidity": 1002588403036490994,
+    "timestamp": "2024-01-01T20:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "268.93233 ETH",
+    "position": {
+      "lower_tick": 198531,
+      "upper_tick": 199231
+    },
+    "base_amount": "1178578.9 USDC",
+    "quote_amount": "214.40002 ETH",
+    "removed_liquidity": 1002588403036490994,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T21:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1178826.8 USDC",
+    "quote_balance_after": "483.43491 ETH",
+    "position": {
+      "lower_tick": 198531,
+      "upper_tick": 199231
+    },
+    "base_amount": "1178826.8 USDC",
+    "quote_amount": "214.50259 ETH",
+    "timestamp": "2024-01-01T21:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1155138.4 USDC",
+    "quote_balance_after": "493.55100 ETH",
+    "amount": "10.116087 ETH",
+    "price": "2340.4880 USDC/ETH",
+    "fee": "11.838291 USDC",
+    "base_change": "23676.581 USDC",
+    "quote_change": "10.116087 ETH",
+    "timestamp": "2024-01-01T21:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1154566.7 USDC",
+    "quote_balance_after": "493.79536 ETH",
+    "amount": "0.24435503 ETH",
+    "price": "2338.1488 USDC/ETH",
+    "fee": "0.28566921 USDC",
+    "base_change": "571.33842 USDC",
+    "quote_change": "0.24435503 ETH",
+    "timestamp": "2024-01-01T22:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "206.63708 ETH",
+    "base_amount_max": "1154566.7 USDC",
+    "quote_amount_max": "493.79536 ETH",
+    "lower_quote_price": "2236.5809 USDC/ETH",
+    "upper_quote_price": "2398.8199 USDC/ETH",
+    "base_amount_actual": "1154566.7 USDC",
+    "quote_amount_actual": "287.15828 ETH",
+    "position": {
+      "lower_tick": 198492,
+      "upper_tick": 199193
+    },
+    "liquidity": 1087585026440443260,
+    "timestamp": "2024-01-01T22:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "206.63708 ETH",
+    "position": {
+      "lower_tick": 198492,
+      "upper_tick": 199193
+    },
+    "base_amount": "1125651.9 USDC",
+    "quote_amount": "299.53164 ETH",
+    "removed_liquidity": 1087585026440443260,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-01T23:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1125734.4 USDC",
+    "quote_balance_after": "506.20833 ETH",
+    "position": {
+      "lower_tick": 198492,
+      "upper_tick": 199193
+    },
+    "base_amount": "1125734.4 USDC",
+    "quote_amount": "299.57126 ETH",
+    "timestamp": "2024-01-01T23:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1153997.7 USDC",
+    "quote_balance_after": "494.10109 ETH",
+    "amount": "12.107249 USDC",
+    "price": "2335.5784 USDC/ETH",
+    "fee": "0.0060536246 ETH",
+    "base_change": "28263.291 USDC",
+    "quote_change": "12.101196 ETH",
+    "timestamp": "2024-01-01T23:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1157591.3 USDC",
+    "quote_balance_after": "492.57118 ETH",
+    "amount": "1.5299068 USDC",
+    "price": "2350.1032 USDC/ETH",
+    "fee": "0.00076495342 ETH",
+    "base_change": "3593.6413 USDC",
+    "quote_change": "1.5291419 ETH",
+    "timestamp": "2024-01-02T00:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "246.95035 ETH",
+    "base_amount_max": "1157591.3 USDC",
+    "quote_amount_max": "492.57118 ETH",
+    "lower_quote_price": "2242.4845 USDC/ETH",
+    "upper_quote_price": "2405.1517 USDC/ETH",
+    "base_amount_actual": "1157591.3 USDC",
+    "quote_amount_actual": "245.62083 ETH",
+    "position": {
+      "lower_tick": 198466,
+      "upper_tick": 199166
+    },
+    "liquidity": 1032496845200176382,
+    "timestamp": "2024-01-02T00:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "246.95035 ETH",
+    "position": {
+      "lower_tick": 198466,
+      "upper_tick": 199166
+    },
+    "base_amount": "1577264.6 USDC",
+    "quote_amount": "68.529132 ETH",
+    "removed_liquidity": 1032496845200176382,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T01:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1577890.5 USDC",
+    "quote_balance_after": "315.67506 ETH",
+    "position": {
+      "lower_tick": 198466,
+      "upper_tick": 199166
+    },
+    "base_amount": "1577890.5 USDC",
+    "quote_amount": "68.724706 ETH",
+    "timestamp": "2024-01-02T01:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1165920.2 USDC",
+    "quote_balance_after": "487.98470 ETH",
+    "amount": "172.30964 ETH",
+    "price": "2389.6775 USDC/ETH",
+    "fee": "205.88224 USDC",
+    "base_change": "411764.48 USDC",
+    "quote_change": "172.30964 ETH",
+    "timestamp": "2024-01-02T01:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1163520.3 USDC",
+    "quote_balance_after": "488.99281 ETH",
+    "amount": "1.0081103 ETH",
+    "price": "2379.4245 USDC/ETH",
+    "fee": "1.1993612 USDC",
+    "base_change": "2398.7224 USDC",
+    "quote_change": "1.0081103 ETH",
+    "timestamp": "2024-01-02T02:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "325.80941 ETH",
+    "base_amount_max": "1163520.3 USDC",
+    "quote_amount_max": "488.99281 ETH",
+    "lower_quote_price": "2257.3840 USDC/ETH",
+    "upper_quote_price": "2421.1320 USDC/ETH",
+    "base_amount_actual": "1163520.3 USDC",
+    "quote_amount_actual": "163.18340 ETH",
+    "position": {
+      "lower_tick": 198400,
+      "upper_tick": 199100
+    },
+    "liquidity": 918971673266090560,
+    "timestamp": "2024-01-02T02:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "325.80941 ETH",
+    "position": {
+      "lower_tick": 198400,
+      "upper_tick": 199100
+    },
+    "base_amount": "1174727.8 USDC",
+    "quote_amount": "158.47439 ETH",
+    "removed_liquidity": 918971673266090560,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T03:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1174972.9 USDC",
+    "quote_balance_after": "484.37782 ETH",
+    "position": {
+      "lower_tick": 198400,
+      "upper_tick": 199100
+    },
+    "base_amount": "1174972.9 USDC",
+    "quote_amount": "158.56841 ETH",
+    "timestamp": "2024-01-02T03:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1164039.4 USDC",
+    "quote_balance_after": "488.96825 ETH",
+    "amount": "4.5904361 ETH",
+    "price": "2380.6144 USDC/ETH",
+    "fee": "5.4640292 USDC",
+    "base_change": "10928.058 USDC",
+    "quote_change": "4.5904361 ETH",
+    "timestamp": "2024-01-02T03:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1165848.2 USDC",
+    "quote_balance_after": "488.21042 ETH",
+    "amount": "0.75783354 USDC",
+    "price": "2388.0054 USDC/ETH",
+    "fee": "0.00037891677 ETH",
+    "base_change": "1808.8057 USDC",
+    "quote_change": "0.75745462 ETH",
+    "timestamp": "2024-01-02T04:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "307.49220 ETH",
+    "base_amount_max": "1165848.2 USDC",
+    "quote_amount_max": "488.21042 ETH",
+    "lower_quote_price": "2268.6196 USDC/ETH",
+    "upper_quote_price": "2433.1827 USDC/ETH",
+    "base_amount_actual": "1165848.2 USDC",
+    "quote_amount_actual": "180.71822 ETH",
+    "position": {
+      "lower_tick": 198350,
+      "upper_tick": 199050
+    },
+    "liquidity": 943958585456217592,
+    "timestamp": "2024-01-02T04:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "307.49220 ETH",
+    "position": {
+      "lower_tick": 198350,
+      "upper_tick": 199050
+    },
+    "base_amount": "1181995.3 USDC",
+    "quote_amount": "173.95886 ETH",
+    "removed_liquidity": 943958585456217592,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T05:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1182224.1 USDC",
+    "quote_balance_after": "481.54943 ETH",
+    "position": {
+      "lower_tick": 198350,
+      "upper_tick": 199050
+    },
+    "base_amount": "1182224.1 USDC",
+    "quote_amount": "174.05723 ETH",
+    "timestamp": "2024-01-02T05:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1166478.1 USDC",
+    "quote_balance_after": "488.13531 ETH",
+    "amount": "6.5858777 ETH",
+    "price": "2389.6775 USDC/ETH",
+    "fee": "7.8690619 USDC",
+    "base_change": "15738.124 USDC",
+    "quote_change": "6.5858777 ETH",
+    "timestamp": "2024-01-02T05:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1164036.4 USDC",
+    "quote_balance_after": "489.16084 ETH",
+    "amount": "1.0255350 ETH",
+    "price": "2379.6624 USDC/ETH",
+    "fee": "1.2202135 USDC",
+    "base_change": "2440.4270 USDC",
+    "quote_change": "1.0255350 ETH",
+    "timestamp": "2024-01-02T06:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "188.77943 ETH",
+    "base_amount_max": "1164036.4 USDC",
+    "quote_amount_max": "489.16084 ETH",
+    "lower_quote_price": "2278.3520 USDC/ETH",
+    "upper_quote_price": "2443.6211 USDC/ETH",
+    "base_amount_actual": "1164036.4 USDC",
+    "quote_amount_actual": "300.38141 ETH",
+    "position": {
+      "lower_tick": 198307,
+      "upper_tick": 199008
+    },
+    "liquidity": 1109137815107144488,
+    "timestamp": "2024-01-02T06:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "188.77943 ETH",
+    "position": {
+      "lower_tick": 198307,
+      "upper_tick": 199008
+    },
+    "base_amount": "1128880.9 USDC",
+    "quote_amount": "315.16434 ETH",
+    "removed_liquidity": 1109137815107144488,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T07:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1129023.1 USDC",
+    "quote_balance_after": "504.00300 ETH",
+    "position": {
+      "lower_tick": 198307,
+      "upper_tick": 199008
+    },
+    "base_amount": "1129023.1 USDC",
+    "quote_amount": "315.22357 ETH",
+    "timestamp": "2024-01-02T07:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1163393.8 USDC",
+    "quote_balance_after": "489.53345 ETH",
+    "amount": "14.469554 USDC",
+    "price": "2376.5710 USDC/ETH",
+    "fee": "0.0072347770 ETH",
+    "base_change": "34370.729 USDC",
+    "quote_change": "14.462319 ETH",
+    "timestamp": "2024-01-02T07:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1166375.0 USDC",
+    "quote_balance_after": "488.28478 ETH",
+    "amount": "1.2486694 USDC",
+    "price": "2388.7219 USDC/ETH",
+    "fee": "0.00062433470 ETH",
+    "base_change": "2981.2326 USDC",
+    "quote_change": "1.2480451 ETH",
+    "timestamp": "2024-01-02T08:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "210.57849 ETH",
+    "base_amount_max": "1166375.0 USDC",
+    "quote_amount_max": "488.28478 ETH",
+    "lower_quote_price": "2284.1896 USDC/ETH",
+    "upper_quote_price": "2449.8821 USDC/ETH",
+    "base_amount_actual": "1166375.0 USDC",
+    "quote_amount_actual": "277.70628 ETH",
+    "position": {
+      "lower_tick": 198282,
+      "upper_tick": 198982
+    },
+    "liquidity": 1079800615336090775,
+    "timestamp": "2024-01-02T08:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "210.57849 ETH",
+    "position": {
+      "lower_tick": 198282,
+      "upper_tick": 198982
+    },
+    "base_amount": "1619511.1 USDC",
+    "quote_amount": "89.623094 ETH",
+    "removed_liquidity": 1079800615336090775,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T09:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1620051.1 USDC",
+    "quote_balance_after": "300.33280 ETH",
+    "position": {
+      "lower_tick": 198282,
+      "upper_tick": 198982
+    },
+    "base_amount": "1620051.1 USDC",
+    "quote_amount": "89.754303 ETH",
+    "timestamp": "2024-01-02T09:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1174695.0 USDC",
+    "quote_balance_after": "483.52147 ETH",
+    "amount": "183.18867 ETH",
+    "price": "2429.9182 USDC/ETH",
+    "fee": "222.56674 USDC",
+    "base_change": "445133.48 USDC",
+    "quote_change": "183.18867 ETH",
+    "timestamp": "2024-01-02T09:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1171290.6 USDC",
+    "quote_balance_after": "484.93024 ETH",
+    "amount": "1.4087791 ETH",
+    "price": "2415.3831 USDC/ETH",
+    "fee": "1.7013706 USDC",
+    "base_change": "3402.7411 USDC",
+    "quote_change": "1.4087791 ETH",
+    "timestamp": "2024-01-02T10:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "284.02648 ETH",
+    "base_amount_max": "1171290.6 USDC",
+    "quote_amount_max": "484.93024 ETH",
+    "lower_quote_price": "2298.3037 USDC/ETH",
+    "upper_quote_price": "2465.0200 USDC/ETH",
+    "base_amount_actual": "1171290.6 USDC",
+    "quote_amount_actual": "200.90377 ETH",
+    "position": {
+      "lower_tick": 198220,
+      "upper_tick": 198920
+    },
+    "liquidity": 973006037998301072,
+    "timestamp": "2024-01-02T10:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "284.02648 ETH",
+    "position": {
+      "lower_tick": 198220,
+      "upper_tick": 198920
+    },
+    "base_amount": "1025669.4 USDC",
+    "quote_amount": "261.37698 ETH",
+    "removed_liquidity": 973006037998301072,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T11:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1025817.4 USDC",
+    "quote_balance_after": "545.49128 ETH",
+    "position": {
+      "lower_tick": 198220,
+      "upper_tick": 198920
+    },
+    "base_amount": "1025817.4 USDC",
+    "quote_amount": "261.46480 ETH",
+    "timestamp": "2024-01-02T11:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1167616.8 USDC",
+    "quote_balance_after": "486.39575 ETH",
+    "amount": "59.095524 USDC",
+    "price": "2400.6948 USDC/ETH",
+    "fee": "0.029547762 ETH",
+    "base_change": "141799.38 USDC",
+    "quote_change": "59.065976 ETH",
+    "timestamp": "2024-01-02T11:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1165786.2 USDC",
+    "quote_balance_after": "487.16037 ETH",
+    "amount": "0.76461944 ETH",
+    "price": "2393.0252 USDC/ETH",
+    "fee": "0.91487681 USDC",
+    "base_change": "1829.7536 USDC",
+    "quote_change": "0.76461944 ETH",
+    "timestamp": "2024-01-02T12:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "76.306387 ETH",
+    "base_amount_max": "1165786.2 USDC",
+    "quote_amount_max": "487.16037 ETH",
+    "lower_quote_price": "2303.6474 USDC/ETH",
+    "upper_quote_price": "2470.7513 USDC/ETH",
+    "base_amount_actual": "1165786.2 USDC",
+    "quote_amount_actual": "410.85399 ETH",
+    "position": {
+      "lower_tick": 198197,
+      "upper_tick": 198897
+    },
+    "liquidity": 1266287805327728415,
+    "timestamp": "2024-01-02T12:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "76.306387 ETH",
+    "position": {
+      "lower_tick": 198197,
+      "upper_tick": 198897
+    },
+    "base_amount": "1097687.5 USDC",
+    "quote_amount": "439.34242 ETH",
+    "removed_liquidity": 1266287805327728415,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T13:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1097800.4 USDC",
+    "quote_balance_after": "515.71627 ETH",
+    "position": {
+      "lower_tick": 198197,
+      "upper_tick": 198897
+    },
+    "base_amount": "1097800.4 USDC",
+    "quote_amount": "439.40988 ETH",
+    "timestamp": "2024-01-02T13:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1164571.8 USDC",
+    "quote_balance_after": "487.73830 ETH",
+    "amount": "27.977969 USDC",
+    "price": "2387.7666 USDC/ETH",
+    "fee": "0.013988985 ETH",
+    "base_change": "66771.459 USDC",
+    "quote_change": "27.963980 ETH",
+    "timestamp": "2024-01-02T13:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1167622.7 USDC",
+    "quote_balance_after": "486.46657 ETH",
+    "amount": "1.2717233 USDC",
+    "price": "2400.2147 USDC/ETH",
+    "fee": "0.00063586166 ETH",
+    "base_change": "3050.8828 USDC",
+    "quote_change": "1.2710874 ETH",
+    "timestamp": "2024-01-02T14:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "118.58596 ETH",
+    "base_amount_max": "1167622.7 USDC",
+    "quote_amount_max": "486.46657 ETH",
+    "lower_quote_price": "2306.1961 USDC/ETH",
+    "upper_quote_price": "2473.4850 USDC/ETH",
+    "base_amount_actual": "1167622.7 USDC",
+    "quote_amount_actual": "367.88061 ETH",
+    "position": {
+      "lower_tick": 198186,
+      "upper_tick": 198886
+    },
+    "liquidity": 1206649028703409949,
+    "timestamp": "2024-01-02T14:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "118.58596 ETH",
+    "position": {
+      "lower_tick": 198186,
+      "upper_tick": 198886
+    },
+    "base_amount": "796380.28 USDC",
+    "quote_amount": "523.52857 ETH",
+    "removed_liquidity": 1206649028703409949,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T15:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "796639.84 USDC",
+    "quote_balance_after": "642.29993 ETH",
+    "position": {
+      "lower_tick": 198186,
+      "upper_tick": 198886
+    },
+    "base_amount": "796639.84 USDC",
+    "quote_amount": "523.71397 ETH",
+    "timestamp": "2024-01-02T15:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1159316.3 USDC",
+    "quote_balance_after": "489.20587 ETH",
+    "amount": "153.09406 USDC",
+    "price": "2370.1633 USDC/ETH",
+    "fee": "0.076547032 ETH",
+    "base_change": "362676.49 USDC",
+    "quote_change": "153.01752 ETH",
+    "timestamp": "2024-01-02T15:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1157207.2 USDC",
+    "quote_balance_after": "490.09866 ETH",
+    "amount": "0.89279354 ETH",
+    "price": "2361.1742 USDC/ETH",
+    "fee": "1.0540205 USDC",
+    "base_change": "2108.0411 USDC",
+    "quote_change": "0.89279354 ETH",
+    "timestamp": "2024-01-02T16:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "503089.70 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1157207.2 USDC",
+    "quote_amount_max": "490.09866 ETH",
+    "lower_quote_price": "2302.2389 USDC/ETH",
+    "upper_quote_price": "2469.2407 USDC/ETH",
+    "base_amount_actual": "654117.54 USDC",
+    "quote_amount_actual": "490.09866 ETH",
+    "position": {
+      "lower_tick": 198203,
+      "upper_tick": 198903
+    },
+    "liquidity": 1075167177848453272,
+    "timestamp": "2024-01-02T16:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "503089.70 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198203,
+      "upper_tick": 198903
+    },
+    "base_amount": "732539.07 USDC",
+    "quote_amount": "456.93550 ETH",
+    "removed_liquidity": 1075167177848453272,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T17:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1235875.3 USDC",
+    "quote_balance_after": "457.02728 ETH",
+    "position": {
+      "lower_tick": 198203,
+      "upper_tick": 198903
+    },
+    "base_amount": "732785.64 USDC",
+    "quote_amount": "457.02728 ETH",
+    "timestamp": "2024-01-02T17:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1159080.8 USDC",
+    "quote_balance_after": "489.43752 ETH",
+    "amount": "32.410241 ETH",
+    "price": "2368.2680 USDC/ETH",
+    "fee": "38.378068 USDC",
+    "base_change": "76756.137 USDC",
+    "quote_change": "32.410241 ETH",
+    "timestamp": "2024-01-02T17:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1157132.0 USDC",
+    "quote_balance_after": "490.26281 ETH",
+    "amount": "0.82528797 ETH",
+    "price": "2360.2299 USDC/ETH",
+    "fee": "0.97393469 USDC",
+    "base_change": "1947.8694 USDC",
+    "quote_change": "0.82528797 ETH",
+    "timestamp": "2024-01-02T18:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "398399.87 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1157132.0 USDC",
+    "quote_amount_max": "490.26281 ETH",
+    "lower_quote_price": "2295.7366 USDC/ETH",
+    "upper_quote_price": "2462.2667 USDC/ETH",
+    "base_amount_actual": "758732.12 USDC",
+    "quote_amount_actual": "490.26281 ETH",
+    "position": {
+      "lower_tick": 198231,
+      "upper_tick": 198932
+    },
+    "liquidity": 1135499949648985265,
+    "timestamp": "2024-01-02T18:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "398399.87 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198231,
+      "upper_tick": 198932
+    },
+    "base_amount": "847062.48 USDC",
+    "quote_amount": "452.89816 ETH",
+    "removed_liquidity": 1135499949648985265,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T19:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1245638.8 USDC",
+    "quote_balance_after": "452.95258 ETH",
+    "position": {
+      "lower_tick": 198231,
+      "upper_tick": 198932
+    },
+    "base_amount": "847238.98 USDC",
+    "quote_amount": "452.95258 ETH",
+    "timestamp": "2024-01-02T19:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1159025.4 USDC",
+    "quote_balance_after": "489.51409 ETH",
+    "amount": "36.561510 ETH",
+    "price": "2367.7944 USDC/ETH",
+    "fee": "43.285070 USDC",
+    "base_change": "86570.139 USDC",
+    "quote_change": "36.561510 ETH",
+    "timestamp": "2024-01-02T19:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1159105.0 USDC",
+    "quote_balance_after": "489.48047 ETH",
+    "amount": "0.033612721 USDC",
+    "price": "2368.0312 USDC/ETH",
+    "fee": "0.000016806360 ETH",
+    "base_change": "79.556172 USDC",
+    "quote_change": "0.033595914 ETH",
+    "timestamp": "2024-01-02T20:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "153294.54 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1159105.0 USDC",
+    "quote_amount_max": "489.48047 ETH",
+    "lower_quote_price": "2292.1334 USDC/ETH",
+    "upper_quote_price": "2458.4022 USDC/ETH",
+    "base_amount_actual": "1005810.4 USDC",
+    "quote_amount_actual": "489.48047 ETH",
+    "position": {
+      "lower_tick": 198247,
+      "upper_tick": 198947
+    },
+    "liquidity": 1282373299122174397,
+    "timestamp": "2024-01-02T20:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "153294.54 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198247,
+      "upper_tick": 198947
+    },
+    "base_amount": "927858.83 USDC",
+    "quote_amount": "522.43997 ETH",
+    "removed_liquidity": 1282373299122174397,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T21:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1081438.2 USDC",
+    "quote_balance_after": "522.56358 ETH",
+    "position": {
+      "lower_tick": 198247,
+      "upper_tick": 198947
+    },
+    "base_amount": "928143.63 USDC",
+    "quote_amount": "522.56358 ETH",
+    "timestamp": "2024-01-02T21:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1157859.5 USDC",
+    "quote_balance_after": "490.19453 ETH",
+    "amount": "32.369048 USDC",
+    "price": "2362.1188 USDC/ETH",
+    "fee": "0.016184524 ETH",
+    "base_change": "76421.306 USDC",
+    "quote_change": "32.352863 ETH",
+    "timestamp": "2024-01-02T21:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1158631.3 USDC",
+    "quote_balance_after": "489.86805 ETH",
+    "amount": "0.32648527 USDC",
+    "price": "2365.1914 USDC/ETH",
+    "fee": "0.00016324263 ETH",
+    "base_change": "771.81404 USDC",
+    "quote_change": "0.32632203 ETH",
+    "timestamp": "2024-01-02T22:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "144415.59 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1158631.3 USDC",
+    "quote_amount_max": "489.86805 ETH",
+    "lower_quote_price": "2289.0362 USDC/ETH",
+    "upper_quote_price": "2455.0803 USDC/ETH",
+    "base_amount_actual": "1014215.7 USDC",
+    "quote_amount_actual": "489.86805 ETH",
+    "position": {
+      "lower_tick": 198260,
+      "upper_tick": 198961
+    },
+    "liquidity": 1286016340875163681,
+    "timestamp": "2024-01-02T22:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "144415.59 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198260,
+      "upper_tick": 198961
+    },
+    "base_amount": "961079.28 USDC",
+    "quote_amount": "512.35316 ETH",
+    "removed_liquidity": 1286016340875163681,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-02T23:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1105611.8 USDC",
+    "quote_balance_after": "512.41441 ETH",
+    "position": {
+      "lower_tick": 198260,
+      "upper_tick": 198961
+    },
+    "base_amount": "961196.21 USDC",
+    "quote_amount": "512.41441 ETH",
+    "timestamp": "2024-01-02T23:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1157729.7 USDC",
+    "quote_balance_after": "490.33051 ETH",
+    "amount": "22.083897 USDC",
+    "price": "2361.1742 USDC/ETH",
+    "fee": "0.011041949 ETH",
+    "base_change": "52117.856 USDC",
+    "quote_change": "22.072855 ETH",
+    "timestamp": "2024-01-02T23:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1156585.6 USDC",
+    "quote_balance_after": "490.81577 ETH",
+    "amount": "0.48526457 ETH",
+    "price": "2356.4568 USDC/ETH",
+    "fee": "0.57175250 USDC",
+    "base_change": "1143.5050 USDC",
+    "quote_change": "0.48526457 ETH",
+    "timestamp": "2024-01-03T00:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "273981.50 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1156585.6 USDC",
+    "quote_amount_max": "490.81577 ETH",
+    "lower_quote_price": "2286.1064 USDC/ETH",
+    "upper_quote_price": "2451.9379 USDC/ETH",
+    "base_amount_actual": "882604.08 USDC",
+    "quote_amount_actual": "490.81577 ETH",
+    "position": {
+      "lower_tick": 198273,
+      "upper_tick": 198974
+    },
+    "liquidity": 1209290764290838042,
+    "timestamp": "2024-01-03T00:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "273981.50 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198273,
+      "upper_tick": 198974
+    },
+    "base_amount": "941333.53 USDC",
+    "quote_amount": "465.91790 ETH",
+    "removed_liquidity": 1209290764290838042,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T01:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1215511.1 USDC",
+    "quote_balance_after": "465.99611 ETH",
+    "position": {
+      "lower_tick": 198273,
+      "upper_tick": 198974
+    },
+    "base_amount": "941529.56 USDC",
+    "quote_amount": "465.99611 ETH",
+    "timestamp": "2024-01-03T01:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1157875.7 USDC",
+    "quote_balance_after": "490.39352 ETH",
+    "amount": "24.397416 ETH",
+    "price": "2361.1742 USDC/ETH",
+    "fee": "28.803274 USDC",
+    "base_change": "57606.548 USDC",
+    "quote_change": "24.397416 ETH",
+    "timestamp": "2024-01-03T01:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1161430.6 USDC",
+    "quote_balance_after": "488.89639 ETH",
+    "amount": "1.4971356 USDC",
+    "price": "2375.6206 USDC/ETH",
+    "fee": "0.00074856778 ETH",
+    "base_change": "3554.8478 USDC",
+    "quote_change": "1.4963870 ETH",
+    "timestamp": "2024-01-03T02:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "97.270571 ETH",
+    "base_amount_max": "1161430.6 USDC",
+    "quote_amount_max": "488.89639 ETH",
+    "lower_quote_price": "2284.8593 USDC/ETH",
+    "upper_quote_price": "2450.6004 USDC/ETH",
+    "base_amount_actual": "1161430.6 USDC",
+    "quote_amount_actual": "391.62582 ETH",
+    "position": {
+      "lower_tick": 198279,
+      "upper_tick": 198979
+    },
+    "liquidity": 1237152600512229595,
+    "timestamp": "2024-01-03T02:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "97.270571 ETH",
+    "position": {
+      "lower_tick": 198279,
+      "upper_tick": 198979
+    },
+    "base_amount": "1101164.5 USDC",
+    "quote_amount": "417.01976 ETH",
+    "removed_liquidity": 1237152600512229595,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T03:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1101285.1 USDC",
+    "quote_balance_after": "514.34808 ETH",
+    "position": {
+      "lower_tick": 198279,
+      "upper_tick": 198979
+    },
+    "base_amount": "1101285.1 USDC",
+    "quote_amount": "417.07751 ETH",
+    "timestamp": "2024-01-03T03:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1160340.4 USDC",
+    "quote_balance_after": "489.42699 ETH",
+    "amount": "24.921093 USDC",
+    "price": "2370.8744 USDC/ETH",
+    "fee": "0.012460547 ETH",
+    "base_change": "59055.238 USDC",
+    "quote_change": "24.908632 ETH",
+    "timestamp": "2024-01-03T03:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1159659.0 USDC",
+    "quote_balance_after": "489.71457 ETH",
+    "amount": "0.28758000 ETH",
+    "price": "2368.0312 USDC/ETH",
+    "fee": "0.34049921 USDC",
+    "base_change": "680.99841 USDC",
+    "quote_change": "0.28758000 ETH",
+    "timestamp": "2024-01-03T04:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "6.8764370 ETH",
+    "base_amount_max": "1159659.0 USDC",
+    "quote_amount_max": "489.71457 ETH",
+    "lower_quote_price": "2285.8437 USDC/ETH",
+    "upper_quote_price": "2451.6562 USDC/ETH",
+    "base_amount_actual": "1159659.0 USDC",
+    "quote_amount_actual": "482.83813 ETH",
+    "position": {
+      "lower_tick": 198274,
+      "upper_tick": 198975
+    },
+    "liquidity": 1362198598297792953,
+    "timestamp": "2024-01-03T04:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "6.8764370 ETH",
+    "position": {
+      "lower_tick": 198274,
+      "upper_tick": 198975
+    },
+    "base_amount": "1192809.6 USDC",
+    "quote_amount": "468.84592 ETH",
+    "removed_liquidity": 1362198598297792953,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T05:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1192891.2 USDC",
+    "quote_balance_after": "475.75705 ETH",
+    "position": {
+      "lower_tick": 198274,
+      "upper_tick": 198975
+    },
+    "base_amount": "1192891.2 USDC",
+    "quote_amount": "468.88061 ETH",
+    "timestamp": "2024-01-03T05:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1160296.6 USDC",
+    "quote_balance_after": "489.50083 ETH",
+    "amount": "13.743785 ETH",
+    "price": "2370.4003 USDC/ETH",
+    "fee": "16.289136 USDC",
+    "base_change": "32578.271 USDC",
+    "quote_change": "13.743785 ETH",
+    "timestamp": "2024-01-03T05:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1162163.2 USDC",
+    "quote_balance_after": "488.71550 ETH",
+    "amount": "0.78533549 USDC",
+    "price": "2377.9973 USDC/ETH",
+    "fee": "0.00039266774 ETH",
+    "base_change": "1866.5919 USDC",
+    "quote_change": "0.78494282 ETH",
+    "timestamp": "2024-01-03T06:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "99.474245 ETH",
+    "base_amount_max": "1162163.2 USDC",
+    "quote_amount_max": "488.71550 ETH",
+    "lower_quote_price": "2286.9445 USDC/ETH",
+    "upper_quote_price": "2452.8368 USDC/ETH",
+    "base_amount_actual": "1162163.2 USDC",
+    "quote_amount_actual": "389.24125 ETH",
+    "position": {
+      "lower_tick": 198270,
+      "upper_tick": 198970
+    },
+    "liquidity": 1234172387470168839,
+    "timestamp": "2024-01-03T06:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "99.474245 ETH",
+    "position": {
+      "lower_tick": 198270,
+      "upper_tick": 198970
+    },
+    "base_amount": "1138095.6 USDC",
+    "quote_amount": "399.36626 ETH",
+    "removed_liquidity": 1234172387470168839,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T07:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1138142.7 USDC",
+    "quote_balance_after": "498.86317 ETH",
+    "position": {
+      "lower_tick": 198270,
+      "upper_tick": 198970
+    },
+    "base_amount": "1138142.7 USDC",
+    "quote_amount": "399.38892 ETH",
+    "timestamp": "2024-01-03T07:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1161732.9 USDC",
+    "quote_balance_after": "488.93008 ETH",
+    "amount": "9.9330939 USDC",
+    "price": "2376.0958 USDC/ETH",
+    "fee": "0.0049665469 ETH",
+    "base_change": "23590.181 USDC",
+    "quote_change": "9.9281273 ETH",
+    "timestamp": "2024-01-03T07:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1158666.9 USDC",
+    "quote_balance_after": "490.22662 ETH",
+    "amount": "1.2965427 ETH",
+    "price": "2363.5364 USDC/ETH",
+    "fee": "1.5322129 USDC",
+    "base_change": "3064.4259 USDC",
+    "quote_change": "1.2965427 ETH",
+    "timestamp": "2024-01-03T08:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "172857.70 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1158666.9 USDC",
+    "quote_amount_max": "490.22662 ETH",
+    "lower_quote_price": "2288.5897 USDC/ETH",
+    "upper_quote_price": "2454.6013 USDC/ETH",
+    "base_amount_actual": "985809.23 USDC",
+    "quote_amount_actual": "490.22662 ETH",
+    "position": {
+      "lower_tick": 198262,
+      "upper_tick": 198963
+    },
+    "liquidity": 1269693140858820014,
+    "timestamp": "2024-01-03T08:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "172857.70 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198262,
+      "upper_tick": 198963
+    },
+    "base_amount": "1072284.2 USDC",
+    "quote_amount": "453.69070 ETH",
+    "removed_liquidity": 1269693140858820014,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T09:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1245235.9 USDC",
+    "quote_balance_after": "453.70960 ETH",
+    "position": {
+      "lower_tick": 198262,
+      "upper_tick": 198963
+    },
+    "base_amount": "1072378.2 USDC",
+    "quote_amount": "453.70960 ETH",
+    "timestamp": "2024-01-03T09:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1160258.4 USDC",
+    "quote_balance_after": "489.54470 ETH",
+    "amount": "35.835104 ETH",
+    "price": "2370.1633 USDC/ETH",
+    "fee": "42.467524 USDC",
+    "base_change": "84935.048 USDC",
+    "quote_change": "35.835104 ETH",
+    "timestamp": "2024-01-03T09:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1161847.3 USDC",
+    "quote_balance_after": "488.87580 ETH",
+    "amount": "0.66889562 USDC",
+    "price": "2376.5710 USDC/ETH",
+    "fee": "0.00033444781 ETH",
+    "base_change": "1588.8831 USDC",
+    "quote_change": "0.66856117 ETH",
+    "timestamp": "2024-01-03T10:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "65.773059 ETH",
+    "base_amount_max": "1161847.3 USDC",
+    "quote_amount_max": "488.87580 ETH",
+    "lower_quote_price": "2288.8374 USDC/ETH",
+    "upper_quote_price": "2454.8671 USDC/ETH",
+    "base_amount_actual": "1161847.3 USDC",
+    "quote_amount_actual": "423.10274 ETH",
+    "position": {
+      "lower_tick": 198261,
+      "upper_tick": 198962
+    },
+    "liquidity": 1279715052110561174,
+    "timestamp": "2024-01-03T10:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "65.773059 ETH",
+    "position": {
+      "lower_tick": 198261,
+      "upper_tick": 198962
+    },
+    "base_amount": "1021643.1 USDC",
+    "quote_amount": "482.22995 ETH",
+    "removed_liquidity": 1279715052110561174,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T11:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1021726.3 USDC",
+    "quote_balance_after": "548.06755 ETH",
+    "position": {
+      "lower_tick": 198261,
+      "upper_tick": 198962
+    },
+    "base_amount": "1021726.3 USDC",
+    "quote_amount": "482.29449 ETH",
+    "timestamp": "2024-01-03T11:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1159131.2 USDC",
+    "quote_balance_after": "489.96129 ETH",
+    "amount": "58.106259 USDC",
+    "price": "2365.9010 USDC/ETH",
+    "fee": "0.029053129 ETH",
+    "base_change": "137404.92 USDC",
+    "quote_change": "58.077205 ETH",
+    "timestamp": "2024-01-03T11:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1143718.8 USDC",
+    "quote_balance_after": "496.65061 ETH",
+    "amount": "6.6893182 ETH",
+    "price": "2302.8795 USDC/ETH",
+    "fee": "7.7023467 USDC",
+    "base_change": "15404.693 USDC",
+    "quote_change": "6.6893182 ETH",
+    "timestamp": "2024-01-03T12:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "990165.73 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1143718.8 USDC",
+    "quote_amount_max": "496.65061 ETH",
+    "lower_quote_price": "2284.0131 USDC/ETH",
+    "upper_quote_price": "2449.6929 USDC/ETH",
+    "base_amount_actual": "153553.06 USDC",
+    "quote_amount_actual": "496.65061 ETH",
+    "position": {
+      "lower_tick": 198282,
+      "upper_tick": 198983
+    },
+    "liquidity": 782079092541664710,
+    "timestamp": "2024-01-03T12:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "990165.73 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198282,
+      "upper_tick": 198983
+    },
+    "base_amount": "0 USDC",
+    "quote_amount": "563.60326 ETH",
+    "removed_liquidity": 782079092541664710,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T13:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "990236.20 USDC",
+    "quote_balance_after": "563.69944 ETH",
+    "position": {
+      "lower_tick": 198282,
+      "upper_tick": 198983
+    },
+    "base_amount": "70.475175 USDC",
+    "quote_amount": "563.69944 ETH",
+    "timestamp": "2024-01-03T13:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1126258.2 USDC",
+    "quote_balance_after": "502.93194 ETH",
+    "amount": "60.767503 USDC",
+    "price": "2239.5203 USDC/ETH",
+    "fee": "0.030383751 ETH",
+    "base_change": "136022.01 USDC",
+    "quote_change": "60.737119 ETH",
+    "timestamp": "2024-01-03T13:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1121691.1 USDC",
+    "quote_balance_after": "504.98701 ETH",
+    "amount": "2.0550775 ETH",
+    "price": "2221.2322 USDC/ETH",
+    "fee": "2.2824021 USDC",
+    "base_change": "4564.8042 USDC",
+    "quote_change": "2.0550775 ETH",
+    "timestamp": "2024-01-03T14:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1121691.1 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1121691.1 USDC",
+    "quote_amount_max": "504.98701 ETH",
+    "lower_quote_price": "2244.3055 USDC/ETH",
+    "upper_quote_price": "2407.1049 USDC/ETH",
+    "base_amount_actual": "0 USDC",
+    "quote_amount_actual": "504.98701 ETH",
+    "position": {
+      "lower_tick": 198458,
+      "upper_tick": 199158
+    },
+    "liquidity": 695611390755800271,
+    "timestamp": "2024-01-03T14:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1121691.1 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198458,
+      "upper_tick": 199158
+    },
+    "base_amount": "0 USDC",
+    "quote_amount": "504.98701 ETH",
+    "removed_liquidity": 695611390755800271,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T15:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1121691.1 USDC",
+    "quote_balance_after": "504.98701 ETH",
+    "position": {
+      "lower_tick": 198458,
+      "upper_tick": 199158
+    },
+    "base_amount": "0 USDC",
+    "quote_amount": "504.98701 ETH",
+    "timestamp": "2024-01-03T15:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1116387.1 USDC",
+    "quote_balance_after": "507.39649 ETH",
+    "amount": "2.4094785 ETH",
+    "price": "2200.2314 USDC/ETH",
+    "fee": "2.6507052 USDC",
+    "base_change": "5301.4104 USDC",
+    "quote_change": "2.4094785 ETH",
+    "timestamp": "2024-01-03T15:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1125329.7 USDC",
+    "quote_balance_after": "503.39419 ETH",
+    "amount": "4.0022970 USDC",
+    "price": "2235.4929 USDC/ETH",
+    "fee": "0.0020011485 ETH",
+    "base_change": "8942.6333 USDC",
+    "quote_change": "4.0002959 ETH",
+    "timestamp": "2024-01-03T16:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "933212.17 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1125329.7 USDC",
+    "quote_amount_max": "503.39419 ETH",
+    "lower_quote_price": "2212.9281 USDC/ETH",
+    "upper_quote_price": "2373.4514 USDC/ETH",
+    "base_amount_actual": "192117.53 USDC",
+    "quote_amount_actual": "503.39419 ETH",
+    "position": {
+      "lower_tick": 198599,
+      "upper_tick": 199299
+    },
+    "liquidity": 806690135588683144,
+    "timestamp": "2024-01-03T16:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "933212.17 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198599,
+      "upper_tick": 199299
+    },
+    "base_amount": "178771.14 USDC",
+    "quote_amount": "509.36651 ETH",
+    "removed_liquidity": 806690135588683144,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T17:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1112372.6 USDC",
+    "quote_balance_after": "509.56421 ETH",
+    "position": {
+      "lower_tick": 198599,
+      "upper_tick": 199299
+    },
+    "base_amount": "179160.45 USDC",
+    "quote_amount": "509.56421 ETH",
+    "timestamp": "2024-01-03T17:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1125344.9 USDC",
+    "quote_balance_after": "503.75438 ETH",
+    "amount": "5.8098318 USDC",
+    "price": "2233.9287 USDC/ETH",
+    "fee": "0.0029049159 ETH",
+    "base_change": "12972.261 USDC",
+    "quote_change": "5.8069269 ETH",
+    "timestamp": "2024-01-03T17:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1122596.5 USDC",
+    "quote_balance_after": "504.99008 ETH",
+    "amount": "1.2357054 ETH",
+    "price": "2223.0098 USDC/ETH",
+    "fee": "1.3734926 USDC",
+    "base_change": "2746.9851 USDC",
+    "quote_change": "1.2357054 ETH",
+    "timestamp": "2024-01-03T18:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "878187.98 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1122596.5 USDC",
+    "quote_amount_max": "504.99008 ETH",
+    "lower_quote_price": "2195.4022 USDC/ETH",
+    "upper_quote_price": "2354.6542 USDC/ETH",
+    "base_amount_actual": "244408.55 USDC",
+    "quote_amount_actual": "504.99008 ETH",
+    "position": {
+      "lower_tick": 198678,
+      "upper_tick": 199378
+    },
+    "liquidity": 838728275364510442,
+    "timestamp": "2024-01-03T18:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "878187.98 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198678,
+      "upper_tick": 199378
+    },
+    "base_amount": "70801.291 USDC",
+    "quote_amount": "583.43003 ETH",
+    "removed_liquidity": 838728275364510442,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T19:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "949431.37 USDC",
+    "quote_balance_after": "583.66233 ETH",
+    "position": {
+      "lower_tick": 198678,
+      "upper_tick": 199378
+    },
+    "base_amount": "71243.397 USDC",
+    "quote_amount": "583.66233 ETH",
+    "timestamp": "2024-01-03T19:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1117691.4 USDC",
+    "quote_balance_after": "507.26495 ETH",
+    "amount": "76.397382 USDC",
+    "price": "2203.5341 USDC/ETH",
+    "fee": "0.038198691 ETH",
+    "base_change": "168260.07 USDC",
+    "quote_change": "76.359184 ETH",
+    "timestamp": "2024-01-03T19:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1118851.8 USDC",
+    "quote_balance_after": "506.73915 ETH",
+    "amount": "0.52579390 USDC",
+    "price": "2207.9454 USDC/ETH",
+    "fee": "0.00026289695 ETH",
+    "base_change": "1160.3437 USDC",
+    "quote_change": "0.52553100 ETH",
+    "timestamp": "2024-01-03T20:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "851096.76 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1118851.8 USDC",
+    "quote_amount_max": "506.73915 ETH",
+    "lower_quote_price": "2178.4779 USDC/ETH",
+    "upper_quote_price": "2336.5022 USDC/ETH",
+    "base_amount_actual": "267755.02 USDC",
+    "quote_amount_actual": "506.73915 ETH",
+    "position": {
+      "lower_tick": 198756,
+      "upper_tick": 199456
+    },
+    "liquidity": 853383751339671491,
+    "timestamp": "2024-01-03T20:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "851096.76 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198756,
+      "upper_tick": 199456
+    },
+    "base_amount": "370134.00 USDC",
+    "quote_amount": "460.48880 ETH",
+    "removed_liquidity": 853383751339671491,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T21:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1221361.6 USDC",
+    "quote_balance_after": "460.52015 ETH",
+    "position": {
+      "lower_tick": 198756,
+      "upper_tick": 199456
+    },
+    "base_amount": "370264.80 USDC",
+    "quote_amount": "460.52015 ETH",
+    "timestamp": "2024-01-03T21:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1121631.9 USDC",
+    "quote_balance_after": "505.43645 ETH",
+    "amount": "44.916300 ETH",
+    "price": "2219.2341 USDC/ETH",
+    "fee": "49.839891 USDC",
+    "base_change": "99679.782 USDC",
+    "quote_change": "44.916300 ETH",
+    "timestamp": "2024-01-03T21:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1123116.1 USDC",
+    "quote_balance_after": "504.76906 ETH",
+    "amount": "0.66738108 USDC",
+    "price": "2225.0113 USDC/ETH",
+    "fee": "0.00033369054 ETH",
+    "base_change": "1484.1880 USDC",
+    "quote_change": "0.66704739 ETH",
+    "timestamp": "2024-01-03T22:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "464527.52 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1123116.1 USDC",
+    "quote_amount_max": "504.76906 ETH",
+    "lower_quote_price": "2168.2087 USDC/ETH",
+    "upper_quote_price": "2325.4881 USDC/ETH",
+    "base_amount_actual": "658588.61 USDC",
+    "quote_amount_actual": "504.76906 ETH",
+    "position": {
+      "lower_tick": 198803,
+      "upper_tick": 199503
+    },
+    "liquidity": 1089376890205343576,
+    "timestamp": "2024-01-03T22:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "464527.52 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198803,
+      "upper_tick": 199503
+    },
+    "base_amount": "448348.08 USDC",
+    "quote_amount": "599.64690 ETH",
+    "removed_liquidity": 1089376890205343576,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-03T23:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "912970.41 USDC",
+    "quote_balance_after": "599.74191 ETH",
+    "position": {
+      "lower_tick": 198803,
+      "upper_tick": 199503
+    },
+    "base_amount": "448442.90 USDC",
+    "quote_amount": "599.74191 ETH",
+    "timestamp": "2024-01-03T23:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1118150.3 USDC",
+    "quote_balance_after": "506.72095 ETH",
+    "amount": "93.020953 USDC",
+    "price": "2206.8417 USDC/ETH",
+    "fee": "0.046510477 ETH",
+    "base_change": "205179.88 USDC",
+    "quote_change": "92.974443 ETH",
+    "timestamp": "2024-01-03T23:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1119096.4 USDC",
+    "quote_balance_after": "506.29270 ETH",
+    "amount": "0.42825046 USDC",
+    "price": "2210.3753 USDC/ETH",
+    "fee": "0.00021412523 ETH",
+    "base_change": "946.12095 USDC",
+    "quote_change": "0.42803633 ETH",
+    "timestamp": "2024-01-04T00:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "535694.50 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1119096.4 USDC",
+    "quote_amount_max": "506.29270 ETH",
+    "lower_quote_price": "2158.0430 USDC/ETH",
+    "upper_quote_price": "2314.5850 USDC/ETH",
+    "base_amount_actual": "583401.91 USDC",
+    "quote_amount_actual": "506.29270 ETH",
+    "position": {
+      "lower_tick": 198850,
+      "upper_tick": 199550
+    },
+    "liquidity": 1044674134257363991,
+    "timestamp": "2024-01-04T00:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "535694.50 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198850,
+      "upper_tick": 199550
+    },
+    "base_amount": "595681.57 USDC",
+    "quote_amount": "500.73863 ETH",
+    "removed_liquidity": 1044674134257363991,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T01:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1131535.0 USDC",
+    "quote_balance_after": "500.80667 ETH",
+    "position": {
+      "lower_tick": 198850,
+      "upper_tick": 199550
+    },
+    "base_amount": "595840.51 USDC",
+    "quote_amount": "500.80667 ETH",
+    "timestamp": "2024-01-04T01:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1119523.7 USDC",
+    "quote_balance_after": "506.23532 ETH",
+    "amount": "5.4286499 ETH",
+    "price": "2211.4807 USDC/ETH",
+    "fee": "6.0026773 USDC",
+    "base_change": "12005.355 USDC",
+    "quote_change": "5.4286499 ETH",
+    "timestamp": "2024-01-04T01:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1118519.5 USDC",
+    "quote_balance_after": "506.68996 ETH",
+    "amount": "0.45463966 ETH",
+    "price": "2207.5038 USDC/ETH",
+    "fee": "0.50180940 USDC",
+    "base_change": "1003.6188 USDC",
+    "quote_change": "0.45463966 ETH",
+    "timestamp": "2024-01-04T02:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "462626.48 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1118519.5 USDC",
+    "quote_amount_max": "506.68996 ETH",
+    "lower_quote_price": "2151.2114 USDC/ETH",
+    "upper_quote_price": "2307.2578 USDC/ETH",
+    "base_amount_actual": "655893.06 USDC",
+    "quote_amount_actual": "506.68996 ETH",
+    "position": {
+      "lower_tick": 198882,
+      "upper_tick": 199582
+    },
+    "liquidity": 1089211834540631198,
+    "timestamp": "2024-01-04T02:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "462626.48 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198882,
+      "upper_tick": 199582
+    },
+    "base_amount": "950985.68 USDC",
+    "quote_amount": "373.77930 ETH",
+    "removed_liquidity": 1089211834540631198,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T03:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1413795.4 USDC",
+    "quote_balance_after": "373.80301 ETH",
+    "position": {
+      "lower_tick": 198882,
+      "upper_tick": 199582
+    },
+    "base_amount": "951168.95 USDC",
+    "quote_amount": "373.80301 ETH",
+    "timestamp": "2024-01-04T03:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1124110.6 USDC",
+    "quote_balance_after": "503.46510 ETH",
+    "amount": "129.66209 ETH",
+    "price": "2233.0354 USDC/ETH",
+    "fee": "144.77002 USDC",
+    "base_change": "289540.04 USDC",
+    "quote_change": "129.66209 ETH",
+    "timestamp": "2024-01-04T03:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1124239.2 USDC",
+    "quote_balance_after": "503.40752 ETH",
+    "amount": "0.057583020 USDC",
+    "price": "2233.2587 USDC/ETH",
+    "fee": "0.000028791510 ETH",
+    "base_change": "128.53348 USDC",
+    "quote_change": "0.057554229 ETH",
+    "timestamp": "2024-01-04T04:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "66.576948 ETH",
+    "base_amount_max": "1124239.2 USDC",
+    "quote_amount_max": "503.40752 ETH",
+    "lower_quote_price": "2150.8849 USDC/ETH",
+    "upper_quote_price": "2306.9077 USDC/ETH",
+    "base_amount_actual": "1124239.2 USDC",
+    "quote_amount_actual": "436.83057 ETH",
+    "position": {
+      "lower_tick": 198883,
+      "upper_tick": 199583
+    },
+    "liquidity": 1280780120580903916,
+    "timestamp": "2024-01-04T04:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "66.576948 ETH",
+    "position": {
+      "lower_tick": 198883,
+      "upper_tick": 199583
+    },
+    "base_amount": "1206000.7 USDC",
+    "quote_amount": "400.26907 ETH",
+    "removed_liquidity": 1280780120580903916,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T05:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1206149.6 USDC",
+    "quote_balance_after": "466.89691 ETH",
+    "position": {
+      "lower_tick": 198883,
+      "upper_tick": 199583
+    },
+    "base_amount": "1206149.6 USDC",
+    "quote_amount": "400.31996 ETH",
+    "timestamp": "2024-01-04T05:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1125794.9 USDC",
+    "quote_balance_after": "502.76287 ETH",
+    "amount": "35.865966 ETH",
+    "price": "2239.2963 USDC/ETH",
+    "fee": "40.157263 USDC",
+    "base_change": "80314.526 USDC",
+    "quote_change": "35.865966 ETH",
+    "timestamp": "2024-01-04T05:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1125758.7 USDC",
+    "quote_balance_after": "502.77904 ETH",
+    "amount": "0.016170755 ETH",
+    "price": "2239.0724 USDC/ETH",
+    "fee": "0.018103746 USDC",
+    "base_change": "36.207492 USDC",
+    "quote_change": "0.016170755 ETH",
+    "timestamp": "2024-01-04T06:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "102.33646 ETH",
+    "base_amount_max": "1125758.7 USDC",
+    "quote_amount_max": "502.77904 ETH",
+    "lower_quote_price": "2153.3544 USDC/ETH",
+    "upper_quote_price": "2309.5563 USDC/ETH",
+    "base_amount_actual": "1125758.7 USDC",
+    "quote_amount_actual": "400.44259 ETH",
+    "position": {
+      "lower_tick": 198872,
+      "upper_tick": 199572
+    },
+    "liquidity": 1232042278528915029,
+    "timestamp": "2024-01-04T06:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "102.33646 ETH",
+    "position": {
+      "lower_tick": 198872,
+      "upper_tick": 199572
+    },
+    "base_amount": "1146165.8 USDC",
+    "quote_amount": "391.33167 ETH",
+    "removed_liquidity": 1232042278528915029,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T07:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1146291.4 USDC",
+    "quote_balance_after": "493.72159 ETH",
+    "position": {
+      "lower_tick": 198872,
+      "upper_tick": 199572
+    },
+    "base_amount": "1146291.4 USDC",
+    "quote_amount": "391.38513 ETH",
+    "timestamp": "2024-01-04T07:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1126261.9 USDC",
+    "quote_balance_after": "502.65630 ETH",
+    "amount": "8.9347156 ETH",
+    "price": "2240.6402 USDC/ETH",
+    "fee": "10.009742 USDC",
+    "base_change": "20019.483 USDC",
+    "quote_change": "8.9347156 ETH",
+    "timestamp": "2024-01-04T07:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1122448.9 USDC",
+    "quote_balance_after": "504.36882 ETH",
+    "amount": "1.7125204 ETH",
+    "price": "2225.4563 USDC/ETH",
+    "fee": "1.9055697 USDC",
+    "base_change": "3811.1393 USDC",
+    "quote_change": "1.7125204 ETH",
+    "timestamp": "2024-01-04T08:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "159478.26 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1122448.9 USDC",
+    "quote_amount_max": "504.36882 ETH",
+    "lower_quote_price": "2154.6043 USDC/ETH",
+    "upper_quote_price": "2310.8968 USDC/ETH",
+    "base_amount_actual": "962970.62 USDC",
+    "quote_amount_actual": "504.36882 ETH",
+    "position": {
+      "lower_tick": 198866,
+      "upper_tick": 199566
+    },
+    "liquidity": 1274250232914948891,
+    "timestamp": "2024-01-04T08:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "159478.26 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198866,
+      "upper_tick": 199566
+    },
+    "base_amount": "869873.19 USDC",
+    "quote_amount": "546.26668 ETH",
+    "removed_liquidity": 1274250232914948891,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T09:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1029517.0 USDC",
+    "quote_balance_after": "546.35565 ETH",
+    "position": {
+      "lower_tick": 198866,
+      "upper_tick": 199566
+    },
+    "base_amount": "870038.70 USDC",
+    "quote_amount": "546.35565 ETH",
+    "timestamp": "2024-01-04T09:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1120776.5 USDC",
+    "quote_balance_after": "505.20063 ETH",
+    "amount": "41.155019 USDC",
+    "price": "2218.5684 USDC/ETH",
+    "fee": "0.020577509 ETH",
+    "base_change": "91259.573 USDC",
+    "quote_change": "41.134441 ETH",
+    "timestamp": "2024-01-04T09:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1122313.7 USDC",
+    "quote_balance_after": "504.50931 ETH",
+    "amount": "0.69132796 USDC",
+    "price": "2224.5664 USDC/ETH",
+    "fee": "0.00034566398 ETH",
+    "base_change": "1537.1360 USDC",
+    "quote_change": "0.69098230 ETH",
+    "timestamp": "2024-01-04T10:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "103110.48 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1122313.7 USDC",
+    "quote_amount_max": "504.50931 ETH",
+    "lower_quote_price": "2151.5400 USDC/ETH",
+    "upper_quote_price": "2307.6102 USDC/ETH",
+    "base_amount_actual": "1019203.2 USDC",
+    "quote_amount_actual": "504.50931 ETH",
+    "position": {
+      "lower_tick": 198880,
+      "upper_tick": 199580
+    },
+    "liquidity": 1308747517367887553,
+    "timestamp": "2024-01-04T10:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "103110.48 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198880,
+      "upper_tick": 199580
+    },
+    "base_amount": "1025375.9 USDC",
+    "quote_amount": "501.73477 ETH",
+    "removed_liquidity": 1308747517367887553,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T11:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1128704.7 USDC",
+    "quote_balance_after": "501.83861 ETH",
+    "position": {
+      "lower_tick": 198880,
+      "upper_tick": 199580
+    },
+    "base_amount": "1025594.2 USDC",
+    "quote_amount": "501.83861 ETH",
+    "timestamp": "2024-01-04T11:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1122647.6 USDC",
+    "quote_balance_after": "504.55951 ETH",
+    "amount": "2.7209022 ETH",
+    "price": "2225.0113 USDC/ETH",
+    "fee": "3.0270191 USDC",
+    "base_change": "6054.0382 USDC",
+    "quote_change": "2.7209022 ETH",
+    "timestamp": "2024-01-04T11:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1123659.8 USDC",
+    "quote_balance_after": "504.10516 ETH",
+    "amount": "0.45435145 USDC",
+    "price": "2229.0197 USDC/ETH",
+    "fee": "0.00022717573 ETH",
+    "base_change": "1012.2520 USDC",
+    "quote_change": "0.45412428 ETH",
+    "timestamp": "2024-01-04T12:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "29.076307 ETH",
+    "base_amount_max": "1123659.8 USDC",
+    "quote_amount_max": "504.10516 ETH",
+    "lower_quote_price": "2149.9611 USDC/ETH",
+    "upper_quote_price": "2305.9168 USDC/ETH",
+    "base_amount_actual": "1123659.8 USDC",
+    "quote_amount_actual": "475.02885 ETH",
+    "position": {
+      "lower_tick": 198887,
+      "upper_tick": 199588
+    },
+    "liquidity": 1330564183141072356,
+    "timestamp": "2024-01-04T12:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "29.076307 ETH",
+    "position": {
+      "lower_tick": 198887,
+      "upper_tick": 199588
+    },
+    "base_amount": "1249417.8 USDC",
+    "quote_amount": "418.72308 ETH",
+    "removed_liquidity": 1330564183141072356,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T13:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1249646.3 USDC",
+    "quote_balance_after": "447.88236 ETH",
+    "position": {
+      "lower_tick": 198887,
+      "upper_tick": 199588
+    },
+    "base_amount": "1249646.3 USDC",
+    "quote_amount": "418.80605 ETH",
+    "timestamp": "2024-01-04T13:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1125931.2 USDC",
+    "quote_balance_after": "503.13520 ETH",
+    "amount": "55.252846 ETH",
+    "price": "2237.9532 USDC/ETH",
+    "fee": "61.826642 USDC",
+    "base_change": "123653.28 USDC",
+    "quote_change": "55.252846 ETH",
+    "timestamp": "2024-01-04T13:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1126806.8 USDC",
+    "quote_balance_after": "502.74436 ETH",
+    "amount": "0.39084220 USDC",
+    "price": "2241.3125 USDC/ETH",
+    "fee": "0.00019542110 ETH",
+    "base_change": "875.56151 USDC",
+    "quote_change": "0.39064678 ETH",
+    "timestamp": "2024-01-04T14:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "132.16570 ETH",
+    "base_amount_max": "1126806.8 USDC",
+    "quote_amount_max": "502.74436 ETH",
+    "lower_quote_price": "2152.5378 USDC/ETH",
+    "upper_quote_price": "2308.6804 USDC/ETH",
+    "base_amount_actual": "1126806.8 USDC",
+    "quote_amount_actual": "370.57866 ETH",
+    "position": {
+      "lower_tick": 198875,
+      "upper_tick": 199576
+    },
+    "liquidity": 1190275133190913958,
+    "timestamp": "2024-01-04T14:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "132.16570 ETH",
+    "position": {
+      "lower_tick": 198875,
+      "upper_tick": 199576
+    },
+    "base_amount": "1570877.5 USDC",
+    "quote_amount": "173.99805 ETH",
+    "removed_liquidity": 1190275133190913958,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T15:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1571317.3 USDC",
+    "quote_balance_after": "306.27301 ETH",
+    "position": {
+      "lower_tick": 198875,
+      "upper_tick": 199576
+    },
+    "base_amount": "1571317.3 USDC",
+    "quote_amount": "174.10731 ETH",
+    "timestamp": "2024-01-04T15:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1134097.8 USDC",
+    "quote_balance_after": "498.21143 ETH",
+    "amount": "191.93843 ETH",
+    "price": "2276.7770 USDC/ETH",
+    "fee": "218.50050 USDC",
+    "base_change": "437000.99 USDC",
+    "quote_change": "191.93843 ETH",
+    "timestamp": "2024-01-04T15:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1134717.4 USDC",
+    "quote_balance_after": "497.93941 ETH",
+    "amount": "0.27202453 USDC",
+    "price": "2278.8269 USDC/ETH",
+    "fee": "0.00013601227 ETH",
+    "base_change": "619.58687 USDC",
+    "quote_change": "0.27188852 ETH",
+    "timestamp": "2024-01-04T16:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "337.08290 ETH",
+    "base_amount_max": "1134717.4 USDC",
+    "quote_amount_max": "497.93941 ETH",
+    "lower_quote_price": "2160.9482 USDC/ETH",
+    "upper_quote_price": "2317.7009 USDC/ETH",
+    "base_amount_actual": "1134717.4 USDC",
+    "quote_amount_actual": "160.85651 ETH",
+    "position": {
+      "lower_tick": 198836,
+      "upper_tick": 199537
+    },
+    "liquidity": 907280249052928488,
+    "timestamp": "2024-01-04T16:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "337.08290 ETH",
+    "position": {
+      "lower_tick": 198836,
+      "upper_tick": 199537
+    },
+    "base_amount": "1093593.7 USDC",
+    "quote_amount": "178.91968 ETH",
+    "removed_liquidity": 907280249052928488,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T17:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1094101.4 USDC",
+    "quote_balance_after": "516.26659 ETH",
+    "position": {
+      "lower_tick": 198836,
+      "upper_tick": 199537
+    },
+    "base_amount": "1094101.4 USDC",
+    "quote_amount": "179.18369 ETH",
+    "timestamp": "2024-01-04T17:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1134155.2 USDC",
+    "quote_balance_after": "498.64785 ETH",
+    "amount": "17.618736 USDC",
+    "price": "2274.5015 USDC/ETH",
+    "fee": "0.0088093680 ETH",
+    "base_change": "40053.804 USDC",
+    "quote_change": "17.609927 ETH",
+    "timestamp": "2024-01-04T17:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1134902.5 USDC",
+    "quote_balance_after": "498.31956 ETH",
+    "amount": "0.32829329 USDC",
+    "price": "2277.4601 USDC/ETH",
+    "fee": "0.00016414665 ETH",
+    "base_change": "747.30104 USDC",
+    "quote_change": "0.32812915 ETH",
+    "timestamp": "2024-01-04T18:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "266.92271 ETH",
+    "base_amount_max": "1134902.5 USDC",
+    "quote_amount_max": "498.31956 ETH",
+    "lower_quote_price": "2170.8223 USDC/ETH",
+    "upper_quote_price": "2328.2913 USDC/ETH",
+    "base_amount_actual": "1134902.5 USDC",
+    "quote_amount_actual": "231.39685 ETH",
+    "position": {
+      "lower_tick": 198791,
+      "upper_tick": 199491
+    },
+    "liquidity": 1004938331704470271,
+    "timestamp": "2024-01-04T18:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "266.92271 ETH",
+    "position": {
+      "lower_tick": 198791,
+      "upper_tick": 199491
+    },
+    "base_amount": "1130107.2 USDC",
+    "quote_amount": "233.50263 ETH",
+    "removed_liquidity": 1004938331704470271,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T19:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1130230.9 USDC",
+    "quote_balance_after": "500.48360 ETH",
+    "position": {
+      "lower_tick": 198791,
+      "upper_tick": 199491
+    },
+    "base_amount": "1130230.9 USDC",
+    "quote_amount": "233.56089 ETH",
+    "timestamp": "2024-01-04T19:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1134914.9 USDC",
+    "quote_balance_after": "498.42550 ETH",
+    "amount": "2.0580942 USDC",
+    "price": "2277.0047 USDC/ETH",
+    "fee": "0.0010290471 ETH",
+    "base_change": "4683.9470 USDC",
+    "quote_change": "2.0570652 ETH",
+    "timestamp": "2024-01-04T19:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1135313.2 USDC",
+    "quote_balance_after": "498.25061 ETH",
+    "amount": "0.17489333 USDC",
+    "price": "2278.5991 USDC/ETH",
+    "fee": "0.000087446665 ETH",
+    "base_change": "398.31252 USDC",
+    "quote_change": "0.17480588 ETH",
+    "timestamp": "2024-01-04T20:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "210.26309 ETH",
+    "base_amount_max": "1135313.2 USDC",
+    "quote_amount_max": "498.25061 ETH",
+    "lower_quote_price": "2179.3840 USDC/ETH",
+    "upper_quote_price": "2337.4741 USDC/ETH",
+    "base_amount_actual": "1135313.2 USDC",
+    "quote_amount_actual": "287.98752 ETH",
+    "position": {
+      "lower_tick": 198751,
+      "upper_tick": 199452
+    },
+    "liquidity": 1080925454317267169,
+    "timestamp": "2024-01-04T20:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "210.26309 ETH",
+    "position": {
+      "lower_tick": 198751,
+      "upper_tick": 199452
+    },
+    "base_amount": "1122416.0 USDC",
+    "quote_amount": "293.64905 ETH",
+    "removed_liquidity": 1080925454317267169,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T21:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1122660.3 USDC",
+    "quote_balance_after": "504.01117 ETH",
+    "position": {
+      "lower_tick": 198751,
+      "upper_tick": 199452
+    },
+    "base_amount": "1122660.3 USDC",
+    "quote_amount": "293.74808 ETH",
+    "timestamp": "2024-01-04T21:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1135256.5 USDC",
+    "quote_balance_after": "498.47758 ETH",
+    "amount": "5.5335899 USDC",
+    "price": "2277.4601 USDC/ETH",
+    "fee": "0.0027667950 ETH",
+    "base_change": "12596.229 USDC",
+    "quote_change": "5.5308231 ETH",
+    "timestamp": "2024-01-04T21:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1134578.6 USDC",
+    "quote_balance_after": "498.77545 ETH",
+    "amount": "0.29786604 ETH",
+    "price": "2274.7289 USDC/ETH",
+    "fee": "0.33878225 USDC",
+    "base_change": "677.56451 USDC",
+    "quote_change": "0.29786604 ETH",
+    "timestamp": "2024-01-04T22:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "120.34243 ETH",
+    "base_amount_max": "1134578.6 USDC",
+    "quote_amount_max": "498.77545 ETH",
+    "lower_quote_price": "2185.7180 USDC/ETH",
+    "upper_quote_price": "2344.2674 USDC/ETH",
+    "base_amount_actual": "1134578.6 USDC",
+    "quote_amount_actual": "378.43302 ETH",
+    "position": {
+      "lower_tick": 198722,
+      "upper_tick": 199423
+    },
+    "liquidity": 1204406935627158844,
+    "timestamp": "2024-01-04T22:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "120.34243 ETH",
+    "position": {
+      "lower_tick": 198722,
+      "upper_tick": 199423
+    },
+    "base_amount": "1117349.1 USDC",
+    "quote_amount": "386.00960 ETH",
+    "removed_liquidity": 1204406935627158844,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-04T23:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1117552.9 USDC",
+    "quote_balance_after": "506.44861 ETH",
+    "position": {
+      "lower_tick": 198722,
+      "upper_tick": 199423
+    },
+    "base_amount": "1117552.9 USDC",
+    "quote_amount": "386.10618 ETH",
+    "timestamp": "2024-01-04T23:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1134439.2 USDC",
+    "quote_balance_after": "499.01703 ETH",
+    "amount": "7.4315842 USDC",
+    "price": "2273.3646 USDC/ETH",
+    "fee": "0.0037157921 ETH",
+    "base_change": "16886.253 USDC",
+    "quote_change": "7.4278684 ETH",
+    "timestamp": "2024-01-04T23:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1133592.8 USDC",
+    "quote_balance_after": "499.38969 ETH",
+    "amount": "0.37266418 ETH",
+    "price": "2269.9572 USDC/ETH",
+    "fee": "0.42296588 USDC",
+    "base_change": "845.93176 USDC",
+    "quote_change": "0.37266418 ETH",
+    "timestamp": "2024-01-05T00:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "41.944875 ETH",
+    "base_amount_max": "1133592.8 USDC",
+    "quote_amount_max": "499.38969 ETH",
+    "lower_quote_price": "2188.3540 USDC/ETH",
+    "upper_quote_price": "2347.0948 USDC/ETH",
+    "base_amount_actual": "1133592.8 USDC",
+    "quote_amount_actual": "457.44482 ETH",
+    "position": {
+      "lower_tick": 198710,
+      "upper_tick": 199411
+    },
+    "liquidity": 1312158842810589063,
+    "timestamp": "2024-01-05T00:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "41.944875 ETH",
+    "position": {
+      "lower_tick": 198710,
+      "upper_tick": 199411
+    },
+    "base_amount": "1152349.7 USDC",
+    "quote_amount": "449.18421 ETH",
+    "removed_liquidity": 1312158842810589063,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T01:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1152482.1 USDC",
+    "quote_balance_after": "491.18431 ETH",
+    "position": {
+      "lower_tick": 198710,
+      "upper_tick": 199411
+    },
+    "base_amount": "1152482.1 USDC",
+    "quote_amount": "449.23943 ETH",
+    "timestamp": "2024-01-05T01:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1134050.1 USDC",
+    "quote_balance_after": "499.29536 ETH",
+    "amount": "8.1110540 ETH",
+    "price": "2271.3196 USDC/ETH",
+    "fee": "9.2113978 USDC",
+    "base_change": "18422.796 USDC",
+    "quote_change": "8.1110540 ETH",
+    "timestamp": "2024-01-05T01:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1128297.8 USDC",
+    "quote_balance_after": "501.85262 ETH",
+    "amount": "2.5572601 ETH",
+    "price": "2248.2710 USDC/ETH",
+    "fee": "2.8747069 USDC",
+    "base_change": "5749.4137 USDC",
+    "quote_change": "2.5572601 ETH",
+    "timestamp": "2024-01-05T02:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "391123.49 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1128297.8 USDC",
+    "quote_amount_max": "501.85262 ETH",
+    "lower_quote_price": "2186.8715 USDC/ETH",
+    "upper_quote_price": "2345.5046 USDC/ETH",
+    "base_amount_actual": "737174.33 USDC",
+    "quote_amount_actual": "501.85262 ETH",
+    "position": {
+      "lower_tick": 198717,
+      "upper_tick": 199417
+    },
+    "liquidity": 1134440014265059981,
+    "timestamp": "2024-01-05T02:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "391123.49 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198717,
+      "upper_tick": 199417
+    },
+    "base_amount": "678040.22 USDC",
+    "quote_amount": "528.18360 ETH",
+    "removed_liquidity": 1134440014265059981,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T03:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1069567.4 USDC",
+    "quote_balance_after": "528.34226 ETH",
+    "position": {
+      "lower_tick": 198717,
+      "upper_tick": 199417
+    },
+    "base_amount": "678443.91 USDC",
+    "quote_amount": "528.34226 ETH",
+    "timestamp": "2024-01-05T03:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1127377.9 USDC",
+    "quote_balance_after": "502.55941 ETH",
+    "amount": "25.782847 USDC",
+    "price": "2243.3305 USDC/ETH",
+    "fee": "0.012891423 ETH",
+    "base_change": "57810.527 USDC",
+    "quote_change": "25.769955 ETH",
+    "timestamp": "2024-01-05T03:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1127730.5 USDC",
+    "quote_balance_after": "502.40225 ETH",
+    "amount": "0.15715691 USDC",
+    "price": "2244.6768 USDC/ETH",
+    "fee": "0.000078578457 ETH",
+    "base_change": "352.59010 USDC",
+    "quote_change": "0.15707834 ETH",
+    "timestamp": "2024-01-05T04:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "346180.62 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1127730.5 USDC",
+    "quote_amount_max": "502.40225 ETH",
+    "lower_quote_price": "2181.1758 USDC/ETH",
+    "upper_quote_price": "2339.3958 USDC/ETH",
+    "base_amount_actual": "781549.90 USDC",
+    "quote_amount_actual": "502.40225 ETH",
+    "position": {
+      "lower_tick": 198743,
+      "upper_tick": 199443
+    },
+    "liquidity": 1161894853898351865,
+    "timestamp": "2024-01-05T04:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "346180.62 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198743,
+      "upper_tick": 199443
+    },
+    "base_amount": "795313.00 USDC",
+    "quote_amount": "496.27235 ETH",
+    "removed_liquidity": 1161894853898351865,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T05:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1141612.9 USDC",
+    "quote_balance_after": "496.32051 ETH",
+    "position": {
+      "lower_tick": 198743,
+      "upper_tick": 199443
+    },
+    "base_amount": "795432.24 USDC",
+    "quote_amount": "496.32051 ETH",
+    "timestamp": "2024-01-05T05:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1128117.8 USDC",
+    "quote_balance_after": "502.32651 ETH",
+    "amount": "6.0060012 ETH",
+    "price": "2245.7994 USDC/ETH",
+    "fee": "6.7441369 USDC",
+    "base_change": "13488.274 USDC",
+    "quote_change": "6.0060012 ETH",
+    "timestamp": "2024-01-05T05:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1128685.2 USDC",
+    "quote_balance_after": "502.07399 ETH",
+    "amount": "0.25252517 USDC",
+    "price": "2248.0462 USDC/ETH",
+    "fee": "0.00012626259 ETH",
+    "base_change": "567.40441 USDC",
+    "quote_change": "0.25239891 ETH",
+    "timestamp": "2024-01-05T06:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "176790.68 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1128685.2 USDC",
+    "quote_amount_max": "502.07399 ETH",
+    "lower_quote_price": "2177.1480 USDC/ETH",
+    "upper_quote_price": "2335.0759 USDC/ETH",
+    "base_amount_actual": "951894.56 USDC",
+    "quote_amount_actual": "502.07399 ETH",
+    "position": {
+      "lower_tick": 198762,
+      "upper_tick": 199462
+    },
+    "liquidity": 1264903838765048614,
+    "timestamp": "2024-01-05T06:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "176790.68 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198762,
+      "upper_tick": 199462
+    },
+    "base_amount": "1108021.0 USDC",
+    "quote_amount": "432.80448 ETH",
+    "removed_liquidity": 1264903838765048614,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T07:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1285488.6 USDC",
+    "quote_balance_after": "433.08282 ETH",
+    "position": {
+      "lower_tick": 198762,
+      "upper_tick": 199462
+    },
+    "base_amount": "1108697.9 USDC",
+    "quote_amount": "433.08282 ETH",
+    "timestamp": "2024-01-05T07:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1132000.5 USDC",
+    "quote_balance_after": "500.97101 ETH",
+    "amount": "67.888187 ETH",
+    "price": "2259.7659 USDC/ETH",
+    "fee": "76.705705 USDC",
+    "base_change": "153411.41 USDC",
+    "quote_change": "67.888187 ETH",
+    "timestamp": "2024-01-05T07:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1131077.0 USDC",
+    "quote_balance_after": "501.38017 ETH",
+    "amount": "0.40916526 ETH",
+    "price": "2255.9277 USDC/ETH",
+    "fee": "0.46152364 USDC",
+    "base_change": "923.04727 USDC",
+    "quote_change": "0.40916526 ETH",
+    "timestamp": "2024-01-05T08:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "12.601610 ETH",
+    "base_amount_max": "1131077.0 USDC",
+    "quote_amount_max": "501.38017 ETH",
+    "lower_quote_price": "2177.2119 USDC/ETH",
+    "upper_quote_price": "2335.1443 USDC/ETH",
+    "base_amount_actual": "1131077.0 USDC",
+    "quote_amount_actual": "488.77856 ETH",
+    "position": {
+      "lower_tick": 198761,
+      "upper_tick": 199462
+    },
+    "liquidity": 1353634444522007665,
+    "timestamp": "2024-01-05T08:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "12.601610 ETH",
+    "position": {
+      "lower_tick": 198761,
+      "upper_tick": 199462
+    },
+    "base_amount": "1098940.1 USDC",
+    "quote_amount": "503.03121 ETH",
+    "removed_liquidity": 1353634444522007665,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T09:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1099014.1 USDC",
+    "quote_balance_after": "515.67176 ETH",
+    "position": {
+      "lower_tick": 198761,
+      "upper_tick": 199462
+    },
+    "base_amount": "1099014.1 USDC",
+    "quote_amount": "503.07015 ETH",
+    "timestamp": "2024-01-05T09:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1130569.0 USDC",
+    "quote_balance_after": "501.66319 ETH",
+    "amount": "14.008573 USDC",
+    "price": "2253.6731 USDC/ETH",
+    "fee": "0.0070042865 ETH",
+    "base_change": "31554.958 USDC",
+    "quote_change": "14.001569 ETH",
+    "timestamp": "2024-01-05T09:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1133749.7 USDC",
+    "quote_balance_after": "500.25905 ETH",
+    "amount": "1.4041440 USDC",
+    "price": "2266.3284 USDC/ETH",
+    "fee": "0.00070207199 ETH",
+    "base_change": "3180.6602 USDC",
+    "quote_change": "1.4034419 ETH",
+    "timestamp": "2024-01-05T10:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "114.08411 ETH",
+    "base_amount_max": "1133749.7 USDC",
+    "quote_amount_max": "500.25905 ETH",
+    "lower_quote_price": "2178.3075 USDC/ETH",
+    "upper_quote_price": "2336.3195 USDC/ETH",
+    "base_amount_actual": "1133749.7 USDC",
+    "quote_amount_actual": "386.17493 ETH",
+    "position": {
+      "lower_tick": 198756,
+      "upper_tick": 199457
+    },
+    "liquidity": 1214799186977542524,
+    "timestamp": "2024-01-05T10:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "114.08411 ETH",
+    "position": {
+      "lower_tick": 198756,
+      "upper_tick": 199457
+    },
+    "base_amount": "839573.55 USDC",
+    "quote_amount": "516.64155 ETH",
+    "removed_liquidity": 1214799186977542524,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T11:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "839653.41 USDC",
+    "quote_balance_after": "630.83022 ETH",
+    "position": {
+      "lower_tick": 198756,
+      "upper_tick": 199457
+    },
+    "base_amount": "839653.41 USDC",
+    "quote_amount": "516.74611 ETH",
+    "timestamp": "2024-01-05T11:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1127263.2 USDC",
+    "quote_balance_after": "502.55950 ETH",
+    "amount": "128.27072 USDC",
+    "price": "2243.3305 USDC/ETH",
+    "fee": "0.064135362 ETH",
+    "base_change": "287609.75 USDC",
+    "quote_change": "128.20659 ETH",
+    "timestamp": "2024-01-05T11:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1127335.1 USDC",
+    "quote_balance_after": "502.52743 ETH",
+    "amount": "0.032067681 USDC",
+    "price": "2243.3305 USDC/ETH",
+    "fee": "0.000016033841 ETH",
+    "base_change": "71.902437 USDC",
+    "quote_change": "0.032051647 ETH",
+    "timestamp": "2024-01-05T12:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "274809.34 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1127335.1 USDC",
+    "quote_amount_max": "502.52743 ETH",
+    "lower_quote_price": "2176.6138 USDC/ETH",
+    "upper_quote_price": "2334.5029 USDC/ETH",
+    "base_amount_actual": "852525.73 USDC",
+    "quote_amount_actual": "502.52743 ETH",
+    "position": {
+      "lower_tick": 198764,
+      "upper_tick": 199464
+    },
+    "liquidity": 1205063362781833282,
+    "timestamp": "2024-01-05T12:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "274809.34 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198764,
+      "upper_tick": 199464
+    },
+    "base_amount": "858233.37 USDC",
+    "quote_amount": "499.98341 ETH",
+    "removed_liquidity": 1205063362781833282,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T13:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1133187.1 USDC",
+    "quote_balance_after": "500.04485 ETH",
+    "position": {
+      "lower_tick": 198764,
+      "upper_tick": 199464
+    },
+    "base_amount": "858377.74 USDC",
+    "quote_amount": "500.04485 ETH",
+    "timestamp": "2024-01-05T13:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1127585.8 USDC",
+    "quote_balance_after": "502.53994 ETH",
+    "amount": "2.4950911 ETH",
+    "price": "2243.7792 USDC/ETH",
+    "fee": "2.7992168 USDC",
+    "base_change": "5598.4335 USDC",
+    "quote_change": "2.4950911 ETH",
+    "timestamp": "2024-01-05T13:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1129280.2 USDC",
+    "quote_balance_after": "501.78667 ETH",
+    "amount": "0.75326465 USDC",
+    "price": "2250.5203 USDC/ETH",
+    "fee": "0.00037663232 ETH",
+    "base_change": "1694.3898 USDC",
+    "quote_change": "0.75288802 ETH",
+    "timestamp": "2024-01-05T14:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "34592.565 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1129280.2 USDC",
+    "quote_amount_max": "501.78667 ETH",
+    "lower_quote_price": "2174.1839 USDC/ETH",
+    "upper_quote_price": "2331.8968 USDC/ETH",
+    "base_amount_actual": "1094687.7 USDC",
+    "quote_amount_actual": "501.78667 ETH",
+    "position": {
+      "lower_tick": 198775,
+      "upper_tick": 199476
+    },
+    "liquidity": 1349340616962252001,
+    "timestamp": "2024-01-05T14:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "34592.565 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198775,
+      "upper_tick": 199476
+    },
+    "base_amount": "842350.61 USDC",
+    "quote_amount": "614.35429 ETH",
+    "removed_liquidity": 1349340616962252001,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T15:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "877252.39 USDC",
+    "quote_balance_after": "614.56224 ETH",
+    "position": {
+      "lower_tick": 198775,
+      "upper_tick": 199476
+    },
+    "base_amount": "842659.83 USDC",
+    "quote_amount": "614.56224 ETH",
+    "timestamp": "2024-01-05T15:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1124603.5 USDC",
+    "quote_balance_after": "503.72676 ETH",
+    "amount": "110.83548 USDC",
+    "price": "2232.8121 USDC/ETH",
+    "fee": "0.055417742 ETH",
+    "base_change": "247351.07 USDC",
+    "quote_change": "110.78007 ETH",
+    "timestamp": "2024-01-05T15:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1123597.4 USDC",
+    "quote_balance_after": "504.17797 ETH",
+    "amount": "0.45120979 ETH",
+    "price": "2228.5740 USDC/ETH",
+    "fee": "0.50277720 USDC",
+    "base_change": "1005.5544 USDC",
+    "quote_change": "0.45120979 ETH",
+    "timestamp": "2024-01-05T16:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "423695.31 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1123597.4 USDC",
+    "quote_amount_max": "504.17797 ETH",
+    "lower_quote_price": "2169.4444 USDC/ETH",
+    "upper_quote_price": "2326.8134 USDC/ETH",
+    "base_amount_actual": "699902.10 USDC",
+    "quote_amount_actual": "504.17797 ETH",
+    "position": {
+      "lower_tick": 198797,
+      "upper_tick": 199497
+    },
+    "liquidity": 1113902194395988517,
+    "timestamp": "2024-01-05T16:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "423695.31 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198797,
+      "upper_tick": 199497
+    },
+    "base_amount": "552877.81 USDC",
+    "quote_amount": "570.33530 ETH",
+    "removed_liquidity": 1113902194395988517,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T17:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "976947.60 USDC",
+    "quote_balance_after": "570.53581 ETH",
+    "position": {
+      "lower_tick": 198797,
+      "upper_tick": 199497
+    },
+    "base_amount": "553252.29 USDC",
+    "quote_amount": "570.53581 ETH",
+    "timestamp": "2024-01-05T17:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1120592.6 USDC",
+    "quote_balance_after": "505.68544 ETH",
+    "amount": "64.850371 USDC",
+    "price": "2216.1295 USDC/ETH",
+    "fee": "0.032425186 ETH",
+    "base_change": "143644.96 USDC",
+    "quote_change": "64.817946 ETH",
+    "timestamp": "2024-01-05T17:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1125013.7 USDC",
+    "quote_balance_after": "503.70495 ETH",
+    "amount": "1.9804905 USDC",
+    "price": "2233.4820 USDC/ETH",
+    "fee": "0.00099024525 ETH",
+    "base_change": "4421.1782 USDC",
+    "quote_change": "1.9795003 ETH",
+    "timestamp": "2024-01-05T18:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "170785.29 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1125013.7 USDC",
+    "quote_amount_max": "503.70495 ETH",
+    "lower_quote_price": "2162.8381 USDC/ETH",
+    "upper_quote_price": "2319.7279 USDC/ETH",
+    "base_amount_actual": "954228.45 USDC",
+    "quote_amount_actual": "503.70495 ETH",
+    "position": {
+      "lower_tick": 198828,
+      "upper_tick": 199528
+    },
+    "liquidity": 1268201275679422770,
+    "timestamp": "2024-01-05T18:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "170785.29 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198828,
+      "upper_tick": 199528
+    },
+    "base_amount": "969213.28 USDC",
+    "quote_amount": "496.99745 ETH",
+    "removed_liquidity": 1268201275679422770,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T19:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1140120.5 USDC",
+    "quote_balance_after": "497.04739 ETH",
+    "position": {
+      "lower_tick": 198828,
+      "upper_tick": 199528
+    },
+    "base_amount": "969335.17 USDC",
+    "quote_amount": "497.04739 ETH",
+    "timestamp": "2024-01-05T19:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1125403.7 USDC",
+    "quote_balance_after": "503.62998 ETH",
+    "amount": "6.5825825 ETH",
+    "price": "2234.5990 USDC/ETH",
+    "fee": "7.3547160 USDC",
+    "base_change": "14709.432 USDC",
+    "quote_change": "6.5825825 ETH",
+    "timestamp": "2024-01-05T19:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1125744.9 USDC",
+    "quote_balance_after": "503.47730 ETH",
+    "amount": "0.15268078 USDC",
+    "price": "2235.9401 USDC/ETH",
+    "fee": "0.000076340392 ETH",
+    "base_change": "341.21439 USDC",
+    "quote_change": "0.15260444 ETH",
+    "timestamp": "2024-01-05T20:00:00",
+    "action_type": "sell"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "58909.030 USDC",
+    "quote_balance_after": "0 ETH",
+    "base_amount_max": "1125744.9 USDC",
+    "quote_amount_max": "503.47730 ETH",
+    "lower_quote_price": "2160.9332 USDC/ETH",
+    "upper_quote_price": "2317.6849 USDC/ETH",
+    "base_amount_actual": "1066835.9 USDC",
+    "quote_amount_actual": "503.47730 ETH",
+    "position": {
+      "lower_tick": 198836,
+      "upper_tick": 199537
+    },
+    "liquidity": 1334632730029989398,
+    "timestamp": "2024-01-05T20:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "58909.030 USDC",
+    "quote_balance_after": "0 ETH",
+    "position": {
+      "lower_tick": 198836,
+      "upper_tick": 199537
+    },
+    "base_amount": "1234288.3 USDC",
+    "quote_amount": "428.78418 ETH",
+    "removed_liquidity": 1334632730029989398,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T21:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1293434.9 USDC",
+    "quote_balance_after": "428.84935 ETH",
+    "position": {
+      "lower_tick": 198836,
+      "upper_tick": 199537
+    },
+    "base_amount": "1234525.9 USDC",
+    "quote_amount": "428.84935 ETH",
+    "timestamp": "2024-01-05T21:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1128623.5 USDC",
+    "quote_balance_after": "502.13324 ETH",
+    "amount": "73.283886 ETH",
+    "price": "2247.8214 USDC/ETH",
+    "fee": "82.364544 USDC",
+    "base_change": "164729.09 USDC",
+    "quote_change": "73.283886 ETH",
+    "timestamp": "2024-01-05T21:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1128551.8 USDC",
+    "quote_balance_after": "502.16513 ETH",
+    "amount": "0.031891199 ETH",
+    "price": "2247.3719 USDC/ETH",
+    "fee": "0.035835692 USDC",
+    "base_change": "71.671384 USDC",
+    "quote_change": "0.031891199 ETH",
+    "timestamp": "2024-01-05T22:00:00",
+    "action_type": "buy"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "98.626547 ETH",
+    "base_amount_max": "1128551.8 USDC",
+    "quote_amount_max": "502.16513 ETH",
+    "lower_quote_price": "2161.6237 USDC/ETH",
+    "upper_quote_price": "2318.4254 USDC/ETH",
+    "base_amount_actual": "1128551.8 USDC",
+    "quote_amount_actual": "403.53858 ETH",
+    "position": {
+      "lower_tick": 198833,
+      "upper_tick": 199534
+    },
+    "liquidity": 1235954771469825656,
+    "timestamp": "2024-01-05T22:00:00",
+    "action_type": "add_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "0 USDC",
+    "quote_balance_after": "98.626547 ETH",
+    "position": {
+      "lower_tick": 198833,
+      "upper_tick": 199534
+    },
+    "base_amount": "1175442.0 USDC",
+    "quote_amount": "382.69081 ETH",
+    "removed_liquidity": 1235954771469825656,
+    "remain_liquidity": 0,
+    "timestamp": "2024-01-05T23:00:00",
+    "action_type": "remove_liquidity"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1175521.3 USDC",
+    "quote_balance_after": "481.35078 ETH",
+    "position": {
+      "lower_tick": 198833,
+      "upper_tick": 199534
+    },
+    "base_amount": "1175521.3 USDC",
+    "quote_amount": "382.72423 ETH",
+    "timestamp": "2024-01-05T23:00:00",
+    "action_type": "collect"
+  },
+  {
+    "market": {
+      "name": "uni_market"
+    },
+    "base_balance_after": "1129490.8 USDC",
+    "quote_balance_after": "501.78973 ETH",
+    "amount": "20.438948 ETH",
+    "price": "2250.9704 USDC/ETH",
+    "fee": "23.003734 USDC",
+    "base_change": "46007.468 USDC",
+    "quote_change": "20.438948 ETH",
+    "timestamp": "2024-01-05T23:00:00",
+    "action_type": "buy"
+  }
+]

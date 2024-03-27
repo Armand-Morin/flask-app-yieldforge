@@ -1,0 +1,15 @@
+Indicator,Value
+max_draw_down,0.08
+annualized_returns,-0.94
+benchmark_returns,-0.19
+net_value,0.96
+profit,-37.83
+net_value_up_down_rate,-0.04
+quote_up_down_rate,-0.01
+position_fee_profit,5.73
+position_fee_annualized_returns,7.3
+position_market_time_rate,0.75
+sharpe_ratio,-5.92
+sortino_ratio,-4.1
+volatility,0.46
+correlation_with_quote_price,0.94

@@ -1,0 +1,15 @@
+,ConstantThreshold_Strategy_id0,ConstantThreshold_Strategy_id1
+max_draw_down,0.852,0.589
+annualized_returns,-0.858,-0.531
+benchmark_returns,-0.351,-0.351
+net_value,0.155,0.486
+profit,-845.236,-514.073
+net_value_up_down_rate,-0.845,-0.514
+quote_up_down_rate,-0.676,-0.676
+position_fee_profit,7.54,15.062
+position_fee_annualized_returns,8.124,19.202
+position_market_time_rate,0.212,0.753
+sharpe_ratio,-3.126,-1.381
+sortino_ratio,-2.973,-1.222
+volatility,0.545,0.447
+correlation_with_quote_price,0.844,0.971

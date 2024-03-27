@@ -1,0 +1,82 @@
+{
+    "remove_liquidity": {
+        "market": {
+            "name": "uni_market"
+        },
+        "base_balance_after": "0",
+        "quote_balance_after": "0.0000135752749311972452079816",
+        "position": {
+            "lower_tick": -197594,
+            "upper_tick": -197494
+        },
+        "base_amount": "686.3598277612367024089472357",
+        "quote_amount": "0.1280618256004683105772502497",
+        "removed_liquidity": 3992876021764520,
+        "remain_liquidity": 0,
+        "timestamp": "2024-02-13T23:59:00",
+        "action_type": "remove_liquidity"
+    },
+    "collect": {
+        "market": {
+            "name": "uni_market"
+        },
+        "base_balance_after": "686.4505145608651902628340341",
+        "quote_balance_after": "0.1280767113021948902772048088",
+        "position": {
+            "lower_tick": -197594,
+            "upper_tick": -197494
+        },
+        "base_amount": "686.4505145608651902628340341",
+        "quote_amount": "0.1280631360272636930319968272",
+        "timestamp": "2024-02-13T23:59:00",
+        "action_type": "collect"
+    },
+    "buy": {
+        "market": {
+            "name": "uni_market"
+        },
+        "base_balance_after": "512.3304864879507192076575336",
+        "quote_balance_after": "0.1939472708114791549157904685",
+        "amount": "0.0658705595092842646385856597",
+        "price": "2642.045442814273598573553359",
+        "fee": "0.0870165057835654528011877",
+        "base_change": "0.0658705595092842646385856597",
+        "quote_change": "174.0330115671309056023753128",
+        "timestamp": "2024-02-13T23:59:00",
+        "action_type": "buy"
+    },
+    "add_liquidity": {
+        "market": {
+            "name": "uni_market"
+        },
+        "base_balance_after": "0",
+        "quote_balance_after": "0.0000135752749311972452079816",
+        "base_amount_max": "511.9910899757017029925923309",
+        "quote_amount_max": "0.1941291503504160831880352534",
+        "lower_quote_price": "2624.4037859571804",
+        "upper_quote_price": "2650.7781572013164",
+        "base_amount_actual": "511.9910889999999706633901682",
+        "quote_amount_actual": "0.1941155750754848859428272718",
+        "position": {
+            "lower_tick": -197594,
+            "upper_tick": -197494
+        },
+        "liquidity": 3992876021764520,
+        "timestamp": "2024-02-13T23:50:00",
+        "action_type": "add_liquidity"
+    },
+    "sell": {
+        "market": {
+            "name": "uni_market"
+        },
+        "base_balance_after": "511.8328492326907311285406975",
+        "quote_balance_after": "0.1941934012109737554048831578",
+        "amount": "0.0038825434014776385726716457",
+        "price": "2635.712453023163827845026156",
+        "fee": "0.000001941271700738819286335823",
+        "base_change": "0.003880602129776899753385309877",
+        "quote_change": "10.22815135868118639139948411",
+        "timestamp": "2024-02-13T23:40:00",
+        "action_type": "sell"
+    }
+}
