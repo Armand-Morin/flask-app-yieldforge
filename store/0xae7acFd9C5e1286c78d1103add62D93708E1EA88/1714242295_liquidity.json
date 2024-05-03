@@ -1,0 +1,147 @@
+{
+    "wallet_address": "0xae7acFd9C5e1286c78d1103add62D93708E1EA88",
+    "ethereum": {
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [
+            713233,
+            713249,
+            713257
+        ],
+        "closed_position_ids": [
+            712918
+        ],
+        "v3_positions": {
+            "713233": {
+                "chain": "ethereum",
+                "pool_address": "0x4e68Ccd3E89f51C3074ca5072bbAC773960dFa36",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 713233,
+                "mint_block": 19739635,
+                "current_block": 19748438,
+                "liquidity_at_mint": "12280997937336",
+                "liquidity_at_current": "12280997937336",
+                "initial_price": "3143.210474498413451127494883",
+                "current_price": "3247.362381120968617042948078",
+                "lower_tick": -202740,
+                "upper_tick": -202740,
+                "lower_price": "1568.750541961681703151391150",
+                "upper_price": "6272.720637391221444701082215",
+                "token0": {
+                    "index": 0,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token0_underlying": "1.279562162210490116891694963E-13",
+                "current_num_token0_underlying": "1.208746498413843653976243757E-13",
+                "token1": {
+                    "index": 1,
+                    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+                    "symbol": "USDT",
+                    "decimals": 6
+                },
+                "initial_num_token1_underlying": "202106990842731.0928112384628",
+                "current_num_token1_underlying": "213421361730926.0066231905847",
+                "fees_token0": "0",
+                "fees_token1": "0"
+            },
+            "713249": {
+                "chain": "ethereum",
+                "pool_address": "0x1d42064Fc4Beb5F8aAF85F4617AE8b3b5B8Bd801",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 713249,
+                "mint_block": 19739801,
+                "current_block": 19748439,
+                "liquidity_at_mint": "3518512333980891977",
+                "liquidity_at_current": "3518512333980891977",
+                "initial_price": "0.002440873687670703203061575084",
+                "current_price": "0.002439897582234194756788479283",
+                "lower_tick": -67080,
+                "upper_tick": -67080,
+                "lower_price": "0.001221513491429817987687368344",
+                "upper_price": "0.004884277443475637947750565649",
+                "token0": {
+                    "index": 0,
+                    "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+                    "symbol": "UNI",
+                    "decimals": 18
+                },
+                "initial_num_token0_underlying": "0.0000417367163886305175435069605",
+                "current_num_token0_underlying": "0.00004176519961381687463216562389",
+                "token1": {
+                    "index": 1,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token1_underlying": "50860.24268430192084835270935",
+                "current_num_token1_underlying": "50825.48133818586151916835941",
+                "fees_token0": "0",
+                "fees_token1": "0"
+            },
+            "713257": {
+                "chain": "ethereum",
+                "pool_address": "0x88e6A0c2dDD26FEEb64F039a2c41296FcB3f5640",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 713257,
+                "mint_block": 19739915,
+                "current_block": 19748439,
+                "liquidity_at_mint": "211612379316964",
+                "liquidity_at_current": "211612379316964",
+                "initial_price": "0.0003193891809957244933415028105",
+                "current_price": "0.0003075421811102082129219756759",
+                "lower_tick": 195240,
+                "upper_tick": 195240,
+                "lower_price": "0.0003011213402019310512387255812",
+                "upper_price": "0.0003388330158818390821180072486",
+                "token0": {
+                    "index": 0,
+                    "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+                    "symbol": "USDC",
+                    "decimals": 6
+                },
+                "initial_num_token0_underlying": "365.7111941458495695044135068",
+                "current_num_token0_underlying": "605.3479847613936544423017789",
+                "token1": {
+                    "index": 1,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token1_underlying": "0.1097452626325053341454232667",
+                "current_num_token1_underlying": "0.03894353636814527093726234133",
+                "fees_token0": "0",
+                "fees_token1": "0"
+            }
+        }
+    },
+    "arbitrum": {
+        "name": "arbitrum",
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [],
+        "closed_position_ids": [],
+        "v3_positions": {}
+    },
+    "optimism": {
+        "name": "optimism",
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [],
+        "closed_position_ids": [],
+        "v3_positions": {}
+    },
+    "polygon": {
+        "name": "polygon",
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [],
+        "closed_position_ids": [],
+        "v3_positions": {}
+    }
+}

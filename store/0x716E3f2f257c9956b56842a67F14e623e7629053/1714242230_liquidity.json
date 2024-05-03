@@ -1,0 +1,259 @@
+{
+    "wallet_address": "0x716E3f2f257c9956b56842a67F14e623e7629053",
+    "ethereum": {
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [
+            711632,
+            711897,
+            711929,
+            712003,
+            712153,
+            712963
+        ],
+        "closed_position_ids": [
+            711852
+        ],
+        "v3_positions": {
+            "711632": {
+                "chain": "ethereum",
+                "pool_address": "0xBB0ecCb680FF8b2cbBB239b200cC6f9927b4aacB",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 711632,
+                "mint_block": 19717216,
+                "current_block": 19748433,
+                "liquidity_at_mint": "1540487065864129365839",
+                "liquidity_at_current": "539170473052445278044",
+                "initial_price": "0.0009279331371353019545931483888",
+                "current_price": "0.0006807364103936669714411386116",
+                "lower_tick": -71400,
+                "upper_tick": -71400,
+                "lower_price": "0.0007930351406158293720550243281",
+                "upper_price": "0.001114153870526309672500791961",
+                "token0": {
+                    "index": 0,
+                    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+                    "symbol": "SAFE",
+                    "decimals": 18
+                },
+                "initial_num_token0_underlying": "0.005238202316909860634748747287",
+                "current_num_token0_underlying": "0.008551624981203851401121959116",
+                "token1": {
+                    "index": 1,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token1_underlying": "3544838.432937724360079821865",
+                "current_num_token1_underlying": "0",
+                "fees_token0": "9.311877151135567477187182084E+38",
+                "fees_token1": "7.583545167891535110471118041E+35"
+            },
+            "711897": {
+                "chain": "ethereum",
+                "pool_address": "0xBB0ecCb680FF8b2cbBB239b200cC6f9927b4aacB",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 711897,
+                "mint_block": 19720519,
+                "current_block": 19748433,
+                "liquidity_at_mint": "1448311921379460007119",
+                "liquidity_at_current": "2136819783050352196711",
+                "initial_price": "0.0006913003565430493487895620923",
+                "current_price": "0.0006807364103936669714411386116",
+                "lower_tick": -73200,
+                "upper_tick": -73200,
+                "lower_price": "0.0006624045907758319397700913681",
+                "upper_price": "0.0007175714566557534827275935900",
+                "token0": {
+                    "index": 0,
+                    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+                    "symbol": "SAFE",
+                    "decimals": 18
+                },
+                "initial_num_token0_underlying": "0.001059286525520714110324280124",
+                "current_num_token0_underlying": "0.001502427246625521711992667483",
+                "token1": {
+                    "index": 1,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token1_underlying": "804348.1127601463895851011412",
+                "current_num_token1_underlying": "512273.6208441081108944455973",
+                "fees_token0": "4.487129811802047734181466719E+38",
+                "fees_token1": "3.123011776428963198536216318E+35"
+            },
+            "711929": {
+                "chain": "ethereum",
+                "pool_address": "0xBB0ecCb680FF8b2cbBB239b200cC6f9927b4aacB",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 711929,
+                "mint_block": 19720908,
+                "current_block": 19748433,
+                "liquidity_at_mint": "1357732470975440323584",
+                "liquidity_at_current": "1793508741920724523579",
+                "initial_price": "0.0007377987890962134172595400064",
+                "current_price": "0.0006807364103936669714411386116",
+                "lower_tick": -72400,
+                "upper_tick": -72400,
+                "lower_price": "0.0007175714566557534827275935900",
+                "upper_price": "0.0007930351406158293720550243281",
+                "token0": {
+                    "index": 0,
+                    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+                    "symbol": "SAFE",
+                    "decimals": 18
+                },
+                "initial_num_token0_underlying": "0.001863070624586708282615642296",
+                "current_num_token0_underlying": "0.002471828480049117653834547113",
+                "token1": {
+                    "index": 1,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token1_underlying": "509051.3109106738093422063885",
+                "current_num_token1_underlying": "0",
+                "fees_token0": "2.306620243248837145938138284E+38",
+                "fees_token1": "1.705326279073798838591234442E+35"
+            },
+            "712003": {
+                "chain": "ethereum",
+                "pool_address": "0xBB0ecCb680FF8b2cbBB239b200cC6f9927b4aacB",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 712003,
+                "mint_block": 19722002,
+                "current_block": 19748433,
+                "liquidity_at_mint": "1067558853555233475024",
+                "liquidity_at_current": "2631348488736796206990",
+                "initial_price": "0.0006716758369269390812088099684",
+                "current_price": "0.0006807364103936669714411386116",
+                "lower_tick": -74400,
+                "upper_tick": -74400,
+                "lower_price": "0.0005875036937109556493441022030",
+                "upper_price": "0.0006624045907758319397700913681",
+                "token0": {
+                    "index": 0,
+                    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+                    "symbol": "SAFE",
+                    "decimals": 18
+                },
+                "initial_num_token0_underlying": "0",
+                "current_num_token0_underlying": "0",
+                "token1": {
+                    "index": 1,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token1_underlying": "1599999.999999999999999727224",
+                "current_num_token1_underlying": "1599999.999999999999999727224",
+                "fees_token0": "5.034384523311511192189737156E+38",
+                "fees_token1": "3.105792397235905462048972839E+35"
+            },
+            "712153": {
+                "chain": "ethereum",
+                "pool_address": "0xBB0ecCb680FF8b2cbBB239b200cC6f9927b4aacB",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 712153,
+                "mint_block": 19723825,
+                "current_block": 19748433,
+                "liquidity_at_mint": "563470056215454833877",
+                "liquidity_at_current": "913414986242870415399",
+                "initial_price": "0.0006122743511799340374674335062",
+                "current_price": "0.0006807364103936669714411386116",
+                "lower_tick": -76000,
+                "upper_tick": -76000,
+                "lower_price": "0.0005006416284405185805331030987",
+                "upper_price": "0.0005875036937109556493441022030",
+                "token0": {
+                    "index": 0,
+                    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+                    "symbol": "SAFE",
+                    "decimals": 18
+                },
+                "initial_num_token0_underlying": "0",
+                "current_num_token0_underlying": "0",
+                "token1": {
+                    "index": 1,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token1_underlying": "1049999.999999999999998883716",
+                "current_num_token1_underlying": "1049999.999999999999998883716",
+                "fees_token0": "9.295288395357904428000566615E+37",
+                "fees_token1": "5.253970183220760314676782669E+34"
+            },
+            "712963": {
+                "chain": "ethereum",
+                "pool_address": "0xBB0ecCb680FF8b2cbBB239b200cC6f9927b4aacB",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 712963,
+                "mint_block": 19734800,
+                "current_block": 19748434,
+                "liquidity_at_mint": "65239023904175360250",
+                "liquidity_at_current": "188917798750921523912",
+                "initial_price": "0.0008313618791095024790606417098",
+                "current_price": "0.0006807364103936669714411386116",
+                "lower_tick": -71400,
+                "upper_tick": -71400,
+                "lower_price": "0.0007930351406158293720550243281",
+                "upper_price": "0.0008941392597421331207561767703",
+                "token0": {
+                    "index": 0,
+                    "address": "0x5aFE3855358E112B5647B952709E6165e1c1eEEe",
+                    "symbol": "SAFE",
+                    "decimals": 18
+                },
+                "initial_num_token0_underlying": "0.0000858753749072847856677767846",
+                "current_num_token0_underlying": "0.0001349049010648508060952326202",
+                "token1": {
+                    "index": 1,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token1_underlying": "43871.09313733944834912262384",
+                "current_num_token1_underlying": "0",
+                "fees_token0": "5.531337437405626889519490972E+36",
+                "fees_token1": "4.083837035364412224300990664E+33"
+            }
+        }
+    },
+    "arbitrum": {
+        "name": "arbitrum",
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [],
+        "closed_position_ids": [
+            418939,
+            424556,
+            424712,
+            428869
+        ],
+        "v3_positions": {}
+    },
+    "optimism": {
+        "name": "optimism",
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [],
+        "closed_position_ids": [
+            97034
+        ],
+        "v3_positions": {}
+    },
+    "polygon": {
+        "name": "polygon",
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [],
+        "closed_position_ids": [],
+        "v3_positions": {}
+    }
+}

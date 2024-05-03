@@ -1,0 +1,85 @@
+{
+    "wallet_address": "0x15630E3bf37b6543b0c82f6499e314cdD6A20C4c",
+    "ethereum": {
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [
+            707304
+        ],
+        "closed_position_ids": [],
+        "v3_positions": {
+            "707304": {
+                "mint_block": 19658218,
+                "timestamp": 1713151487,
+                "pool_address": "0x4e68Ccd3E89f51C3074ca5072bbAC773960dFa36",
+                "url": "https://app.uniswap.org/pool/707304?chain=ethereum",
+                "chain": "ethereum",
+                "nft_address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+                "nft_id": 707304,
+                "current_block": 19770988,
+                "liquidity": 5014989796485,
+                "initial_price": "3138.185609941819381484352251",
+                "current_price": "2984.246590561899997086177110",
+                "lower_tick": "-202740",
+                "upper_tick": "-202740",
+                "lower_price": "1568.750541961681703151391150",
+                "upper_price": "6272.720637391221444701082215",
+                "token0": {
+                    "index": 0,
+                    "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+                    "symbol": "WETH",
+                    "decimals": 18
+                },
+                "initial_num_token0_underlying": "0.05239452739374391025703491891",
+                "current_num_token0_underlying": "0.05695353660206535730512546131",
+                "token1": {
+                    "index": 1,
+                    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+                    "symbol": "USDT",
+                    "decimals": 6
+                },
+                "initial_num_token1_underlying": "82.30629006703071970299644146",
+                "current_num_token1_underlying": "75.32917143697846235792637777",
+                "fees_token0": "0",
+                "fees_token1": "0",
+                "tokensOwed0": 0,
+                "tokensOwed1": 0,
+                "collectedToken0": "0",
+                "collectedToken1": "0",
+                "depositedToken0": "0.026200612746024455",
+                "depositedToken1": "82.31073",
+                "amountCollectedUSD": "0",
+                "amountDepositedUSD": "164.6196677147247577233528479525668",
+                "amountWithdrawnUSD": "0"
+            }
+        }
+    },
+    "arbitrum": {
+        "name": "arbitrum",
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [],
+        "closed_position_ids": [],
+        "v3_positions": {}
+    },
+    "optimism": {
+        "name": "optimism",
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [],
+        "closed_position_ids": [],
+        "v3_positions": {}
+    },
+    "polygon": {
+        "name": "polygon",
+        "tokens": {
+            "total_value": 0.0
+        },
+        "active_position_ids": [],
+        "closed_position_ids": [],
+        "v3_positions": {}
+    }
+}
