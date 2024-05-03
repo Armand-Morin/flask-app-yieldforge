@@ -1,4 +1,4 @@
-# Dashboard to monitor an oddress on blockchain
+# Dashboard to monitor an address on blockchain
 
 ## How to run
 ```bash
