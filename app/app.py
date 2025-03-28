@@ -37,7 +37,7 @@ def index(page_path):
         return render_template('home/' + page_path, segment=segment)
     
     except TemplateNotFound:
-        return render_template('home/page-404.html'), 404
+        return render_template('home/page-403.html'), 404
 
 def get_segment(request): 
     try:
